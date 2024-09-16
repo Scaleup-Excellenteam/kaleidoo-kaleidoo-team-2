@@ -1,6 +1,3 @@
-### Not ready yet!!!###
-
-
 from google.cloud import videointelligence_v1 as videointelligence
 import io
 
