@@ -1,0 +1,6 @@
+Time to process - audio_sample_1.mp3: 7.410844326019287
+Confidence: 0.9278915524482727
+
+Time to process - audio_sample_2.mp3: 75.50924372673035
+Confidence: 0.5648570656776428
+
