@@ -1,6 +1,6 @@
-from google.cloud import storage, speech_v1p1beta1 as speech
-import io
+from google.cloud import speech_v1p1beta1 as speech
 import os
+import io
 import time
 from pathlib import Path
 
@@ -10,9 +10,10 @@ os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'kaleidoo-435715-96fdd3ef71f6.jso
 
 # ***Enter src audio filepaths here***
 src_path = "TestingSamples/audio_sample_1.mp3" 
-gcs_uri = f'gs://kaleidoo_bucket/audio_sample_2.mp3'   # For files longer that 1 min                      
+gcs_uri = f'gs://kaleidoo_bucket/audio_sample_2.mp3'   # For files longer that 1 min     
+choice = gcs_uri                 
 
-dst_path = f"TestingOutputs/gogole_speech_{Path(src_path).name}_transcript.txt"
+dst_path = f"TestingOutputs/gogole_speech_{Path(choice).name}_transcript.txt"
 log_path = "TestingLogs/google_speech_testing_results.txt"
 
 def transcribe_audio(audio_path):
@@ -22,13 +23,13 @@ def transcribe_audio(audio_path):
 
     client = speech.SpeechClient()
 
-    # For local audio files
-    #    with io.open(audio_path, 'rb') as audio_file:
-    #        content = audio_file.read()
-    #    audio = speech.RecognitionAudio(content=content)
+    #For local audio files
+    with io.open(audio_path, 'rb') as audio_file:
+        content = audio_file.read()
+    audio = speech.RecognitionAudio(content=content)
 
-    # For cloud audio files
-    audio = speech.RecognitionAudio(uri=gcs_uri)
+    # # For cloud audio files
+    # audio = speech.RecognitionAudio(uri=gcs_uri)
 
     config = speech.RecognitionConfig(
         encoding=speech.RecognitionConfig.AudioEncoding.MP3,  # Change based on your audio format
@@ -36,14 +37,13 @@ def transcribe_audio(audio_path):
         language_code='he-IL'  # Set the language code (Hebrew in this case)
     )
 
-    # For local audio files
-    # operation = client.recognize(config=config, audio=audio)
+    # #For cloud files
+    # operation = client.long_running_recognize(config=config, audio=audio)
+    # print("Waiting for operation to complete...")
+    # response = operation.result(timeout=600)  # Adjust timeout as needed
 
-    # For cloud files
-    operation = client.long_running_recognize(config=config, audio=audio)
-
-    print("Waiting for operation to complete...")
-    response = operation.result(timeout=600)  # Adjust timeout as needed
+    # For local files
+    response = client.recognize(config=config, audio=audio)
 
     with open(dst_path, 'w', encoding='utf-8') as file:
         for result in response.results:
@@ -53,12 +53,8 @@ def transcribe_audio(audio_path):
     print("Transcription complete.")
     end_time = time.time()
 
-
-    # Set filename for output (local or cloud)
-    filename = gcs_uri
-
     with open(log_path, 'a', encoding = 'utf-8') as file:
-        file.write(f"Time to process - {Path(filename).name}: {end_time-start_time}\n")
+        file.write(f"Time to process - {Path(choice).name}: {end_time-start_time}\n")
         file.write('Confidence: {}\n\n'.format(alternative.confidence))
 
 
