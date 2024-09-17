@@ -10,10 +10,10 @@ async def main():
         retrieved_data = search_embeddings(query)
 
         if retrieved_data:
-            # Display the top 5 file paths and their distances
+            # Display the top 5 file paths, line numbers, and their distances
             print("\nTop 5 Results:")
             for idx, data in enumerate(retrieved_data, start=1):
-                print(f"Result {idx}: File Path: {data['file_path']}, Distance: {data['distance']}")
+                print(f"Result {idx}: File Path: {data['file_path']}, Line Number: {data['line_number']}, Distance: {data['distance']}")
 
             # Combine text content for OpenAI generation
             combined_texts = " ".join([data['text_content'] for data in retrieved_data])
