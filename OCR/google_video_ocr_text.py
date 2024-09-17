@@ -6,7 +6,7 @@ from pathlib import Path
 
 
 src_path = "TestingSamples/video_sample_3.mp4"
-dst_path = "TestingOutputs/video_sample_3.txt"
+dst_path = "TestingOutputs/google_video_to_text.txt"
 log_path = "TestingLogs/google_video_to_text_testing_results.txt"
 
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'kaleidoo-435715-96fdd3ef71f6.json'

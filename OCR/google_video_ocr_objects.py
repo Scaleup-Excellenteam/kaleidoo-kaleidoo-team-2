@@ -4,9 +4,9 @@ import os
 import time
 from pathlib import Path
 
-src_path = "TestingSamples/video_sample_3.mp4"
-dst_path = "TestingOutputs/video_sample_3.txt"
-log_path = "TestingLogs/google_video_to_text_testing_results.txt"
+src_path = "TestingSamples/cats.mp4"
+dst_path = "TestingOutputs/google_video_to_objects.txt"
+log_path = "TestingLogs/google_video_to_objects_testing_results.txt"
 
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'kaleidoo-435715-96fdd3ef71f6.json'
 
@@ -28,15 +28,14 @@ def detect_objects(video_path):
     object_annotations = []
     for annotation_result in result.annotation_results:
         for object_annotation in annotation_result.object_annotations:
-            for segment in object_annotation.segments:
-                start_time = segment.segment.start_time_offset.total_seconds()
-                end_time = segment.segment.end_time_offset.total_seconds()
-                object_annotations.append({
-                    "start_time": start_time,
-                    "end_time": end_time,
-                    "entity": object_annotation.entity.description,
-                    "confidence": object_annotation.confidence
-                })
+            start_time = object_annotation.segment.start_time_offset.total_seconds()
+            end_time = object_annotation.segment.end_time_offset.total_seconds()
+            object_annotations.append({
+                "start_time": start_time,
+                "end_time": end_time,
+                "entity": object_annotation.entity.description,
+                "confidence": object_annotation.confidence
+            })
 
     return object_annotations
 

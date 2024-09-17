@@ -1,0 +1,1130 @@
+Detected text: הגדרות עבור חיה בתוך הארגון שלי 0מחוץ לארגון שלי (מופעל) (from 74.0s to 90.6s)
+Translated text: הגדרות עבור חיה בתוך הארגון שלי 0מחוץ לארגון שלי (מופעל)
+Detected text: הגדרות עבור חיה בתוך הארגון שלי 0מחוץ לארגון שלי (מופעל) (from 96.3s to 100.1s)
+Translated text: הגדרות עבור חיה בתוך הארגון שלי 0מחוץ לארגון שלי (מופעל)
+Detected text: ? ספר לי (from 40.4s to 40.7s)
+Translated text: ? ספר לי
+Detected text: ? ספר לי (from 40.8s to 42.2s)
+Translated text: ? ספר לי
+Detected text: השב (from 40.4s to 42.2s)
+Translated text: השב
+Detected text: SUBSCRIBE (from 16.7s to 19.0s)
+Translated text: הירשם
+Detected text: שמור בשם (from 42.4s to 42.7s)
+Translated text: שמור בשם
+Detected text: שמור בשם (from 42.8s to 52.5s)
+Translated text: שמור בשם
+Detected text: תיבת דואר נכנס - (from 42.8s to 52.5s)
+Translated text: תיבת דואר נכנס -
+Detected text: למיילים. (from 62.6s to 105.4s)
+Translated text: למיילים.
+Detected text: Tahoma (from 55.8s to 56.0s)
+Translated text: טהומה
+Detected text: Tahoma (from 61.5s to 105.4s)
+Translated text: טהומה
+Detected text: Tahoma (from 105.5s to 113.6s)
+Translated text: טהומה
+Detected text: Tahoma (from 126.7s to 159.4s)
+Translated text: טהומה
+Detected text: PRESS STX (from 24.5s to 24.5s)
+Translated text: לחץ על STX
+Detected text: נהל את גודל תיבת הדואר על-ידי ריקון פריטים שנמחקו ואחסון בארכיון. (from 46.6s to 50.6s)
+Translated text: נהל את גודל תיבת הדואר על-ידי ריקון פריטים שנמחקו ואחסון בארכיון.
+Detected text: F.www.Y4PC.CO.IL (from 10.6s to 10.6s)
+Translated text: F.www.Y4PC.CO.IL
+Detected text: דירות חשב השב אוטומטית פעם אחת לכל שולח באמצעות ההודעות הבאות: (from 61.5s to 62.5s)
+Translated text: דירות חשב השב אוטומטית פעם אחת לכל שולח באמצעות ההודעות הבאות:
+Detected text: הגדרות עבוריס בתוך הארגון שלי (from 61.7s to 61.9s)
+Translated text: הגדרות עבוריס בתוך הארגון שלי
+Detected text: הגדרות עבוריס בתוך הארגון שלי (from 62.6s to 63.3s)
+Translated text: הגדרות עבוריס בתוך הארגון שלי
+Detected text: ר זמין להשיב ל Yossi Demri (from 105.5s to 106.3s)
+Translated text: ר זמין להשיב ל Yossi Demri
+Detected text: ר זמין להשיב ל Yossi Demri (from 107.5s to 116.5s)
+Translated text: ר זמין להשיב ל Yossi Demri
+Detected text: ר זמין להשיב ל Yossi Demri (from 121.8s to 122.4s)
+Translated text: ר זמין להשיב ל Yossi Demri
+Detected text: ר זמין להשיב ל Yossi Demri (from 126.4s to 131.7s)
+Translated text: ר זמין להשיב ל Yossi Demri
+Detected text: ר זמין להשיב ל Yossi Demri (from 146.8s to 151.9s)
+Translated text: ר זמין להשיב ל Yossi Demri
+Detected text: ר זמין להשיב ל Yossi Demri (from 157.1s to 159.4s)
+Translated text: ר זמין להשיב ל Yossi Demri
+Detected text: 9= = = =: A UI B (from 60.8s to 62.5s)
+Translated text: 9= = = =: ממשק משתמש B
+Detected text: 9= = = =: A UI B (from 126.4s to 126.8s)
+Translated text: 9= = = =: ממשק משתמש B
+Detected text: 9= = = =: A UI B (from 126.9s to 131.7s)
+Translated text: 9= = = =: ממשק משתמש B
+Detected text: 9= = = =: A UI B (from 152.0s to 157.0s)
+Translated text: 9= = = =: ממשק משתמש B
+Detected text: דרות חשב השב אוטומטית פעם אחת לכל שלח באמצעות ההודעות הבאות: (from 60.8s to 61.4s)
+Translated text: דרות חשב השב אוטומטית פעם אחת לכל שלח באמצעות ההודעות הבאות:
+Detected text: + הוספת חשבון (from 42.3s to 42.7s)
+Translated text: + הוספת חשבון
+Detected text: + הוספת חשבון (from 42.8s to 52.5s)
+Translated text: + הוספת חשבון
+Detected text: פרטי חשבון (from 42.3s to 42.7s)
+Translated text: פרטי חשבון
+Detected text: פרטי חשבון (from 42.8s to 52.5s)
+Translated text: פרטי חשבון
+Detected text: חשבון (from 42.4s to 42.7s)
+Translated text: חשבון
+Detected text: חשבון (from 42.4s to 42.7s)
+Translated text: חשבון
+Detected text: חשבון (from 42.8s to 52.5s)
+Translated text: חשבון
+Detected text: תיקיה (from 40.3s to 42.2s)
+Translated text: תיקיה
+Detected text: וובות אוטו (from 52.6s to 55.7s)
+Translated text: וובות אוטו
+Detected text: וובות אוטו (from 61.5s to 63.4s)
+Translated text: וובות אוטו
+Detected text: וובות אוטו (from 63.5s to 102.9s)
+Translated text: וובות אוטו
+Detected text: וובות אוטו (from 103.0s to 105.4s)
+Translated text: וובות אוטו
+Detected text: וובות אוטו (from 105.5s to 131.7s)
+Translated text: וובות אוטו
+Detected text: וובות אוטו (from 135.1s to 136.0s)
+Translated text: וובות אוטו
+Detected text: וובות אוטו (from 136.1s to 146.9s)
+Translated text: וובות אוטו
+Detected text: וובות אוטו (from 152.0s to 159.4s)
+Translated text: וובות אוטו
+Detected text: יציאה (from 42.8s to 52.5s)
+Translated text: יציאה
+Detected text: =9 (from 52.6s to 54.2s)
+Translated text: =9
+Detected text: 100 (from 1.4s to 3.4s)
+Translated text: 100
+Detected text: 100 (from 18.7s to 22.9s)
+Translated text: 100
+Detected text: 100 (from 23.0s to 24.8s)
+Translated text: 100
+Detected text: 100 (from 25.3s to 33.7s)
+Translated text: 100
+Detected text: 100 (from 34.2s to 36.4s)
+Translated text: 100
+Detected text: 100 (from 36.5s to 37.5s)
+Translated text: 100
+Detected text: 100 (from 37.6s to 40.1s)
+Translated text: 100
+Detected text: 100 (from 159.5s to 161.4s)
+Translated text: 100
+Detected text: 100 (from 161.5s to 169.0s)
+Translated text: 100
+Detected text: 100 (from 170.3s to 171.2s)
+Translated text: 100
+Detected text: 100 (from 171.9s to 177.9s)
+Translated text: 100
+Detected text: 100 (from 176.3s to 176.9s)
+Translated text: 100
+Detected text: ..WWW.Y4PC.CO.IL (from 178.0s to 197.5s)
+Translated text: ..WWW.Y4PC.CO.IL
+Detected text: Besskyi (4) (from 41.4s to 42.2s)
+Translated text: בסקי (4)
+Detected text: הגדרות עבור חיה בתוך הארגון שליט מחוץ לארגון שלי (מבוטל) (from 52.6s to 53.9s)
+Translated text: הגדרות עבור חיה בתוך הארגון שליט מחוץ לארגון שלי (מבוטל)
+Detected text: הגדרות עבור חיה בתוך הארגון שליט מחוץ לארגון שלי (מבוטל) (from 54.0s to 54.2s)
+Translated text: הגדרות עבור חיה בתוך הארגון שליט מחוץ לארגון שלי (מבוטל)
+Detected text: / השב אוטומטית לאנשים מחוץ לארגון שלי (from 105.5s to 127.0s)
+Translated text: / השב אוטומטית לאנשים מחוץ לארגון שלי
+Detected text: / השב אוטומטית לאנשים מחוץ לארגון שלי (from 127.2s to 127.2s)
+Translated text: / השב אוטומטית לאנשים מחוץ לארגון שלי
+Detected text: / השב אוטומטית לאנשים מחוץ לארגון שלי (from 129.3s to 130.1s)
+Translated text: / השב אוטומטית לאנשים מחוץ לארגון שלי
+Detected text: / השב אוטומטית לאנשים מחוץ לארגון שלי (from 136.1s to 136.1s)
+Translated text: / השב אוטומטית לאנשים מחוץ לארגון שלי
+Detected text: / השב אוטומטית לאנשים מחוץ לארגון שלי (from 146.8s to 157.0s)
+Translated text: / השב אוטומטית לאנשים מחוץ לארגון שלי
+Detected text: בתוך הארגון שלי סמחוץ לארגון שלי (מופעל) (from 136.8s to 141.8s)
+Translated text: בתוך הארגון שלי סמחוץ לארגון שלי (מופעל)
+Detected text: י גש לחשבון זה באינטרנט. (from 42.8s to 52.5s)
+Translated text: י גש לחשבון זה באינטרנט.
+Detected text: תיב (from 40.4s to 42.7s)
+Translated text: תיב
+Detected text: קבל את אפליק. (from 106.4s to 111.4s)
+Translated text: קבל את אפליק.
+Detected text: קבל את אפליק. (from 116.6s to 121.5s)
+Translated text: קבל את אפליק.
+Detected text: הגדרות (from 42.4s to 42.7s)
+Translated text: הגדרות
+Detected text: הגדרות (from 42.8s to 52.5s)
+Translated text: הגדרות
+Detected text: שינוי (from 42.8s to 52.5s)
+Translated text: שינוי
+Detected text: קבל את אפליק. A (from 65.9s to 81.0s)
+Translated text: קבל את אפליק. A
+Detected text: קבל את אפליק. A (from 86.2s to 89.9s)
+Translated text: קבל את אפליק. A
+Detected text: קבל את אפליק. A (from 90.7s to 91.1s)
+Translated text: קבל את אפליק. A
+Detected text: קבל את אפליק. A (from 96.3s to 105.4s)
+Translated text: קבל את אפליק. A
+Detected text: שעת סיום: (from 52.6s to 100.3s)
+Translated text: שעת סיום:
+Detected text: שעת סיום: (from 100.9s to 159.4s)
+Translated text: שעת סיום:
+Detected text: www.Y4PC.co.IL (from 11.0s to 11.5s)
+Translated text: www.Y4PC.co.IL
+Detected text: ו אל תשלח תשובות אוטומטיות | (from 57.5s to 58.3s)
+Translated text: ו אל תשלח תשובות אוטומטיות |
+Detected text: Oאל תשלח תשובות אוטומטיות (from 62.6s to 65.8s)
+Translated text: Oאל תשלח תשובות אוטומטיות
+Detected text: Oאל תשלח תשובות אוטומטיות (from 73.9s to 74.6s)
+Translated text: Oאל תשלח תשובות אוטומטיות
+Detected text: Oאל תשלח תשובות אוטומטיות (from 74.7s to 75.1s)
+Translated text: Oאל תשלח תשובות אוטומטיות
+Detected text: Oאל תשלח תשובות אוטומטיות (from 90.0s to 90.8s)
+Translated text: Oאל תשלח תשובות אוטומטיות
+Detected text: Oאל תשלח תשובות אוטומטיות (from 157.1s to 159.4s)
+Translated text: Oאל תשלח תשובות אוטומטיות
+Detected text: את אנשי הקשר שלי בלבד סכל אדם מחוץ לארגון שלי (from 135.5s to 136.2s)
+Translated text: את אנשי הקשר שלי בלבד סכל אדם מחוץ לארגון שלי
+Detected text: 9= = = = A UI B (from 55.8s to 60.7s)
+Translated text: 9= = = = A UI B
+Detected text: LAשלח בטווח זמן זה בלבד: (from 61.6s to 62.5s)
+Translated text: LAשלח בטווח זמן זה בלבד:
+Detected text: סאל תשלח תשובות אוטומטיות | (from 54.3s to 57.4s)
+Translated text: סאל תשלח תשובות אוטומטיות |
+Detected text: קבל את אפליק אנשי הקשר שלי בלבד סכל אדם מחוץ לארגון שלי (from 105.5s to 106.3s)
+Translated text: קבל את אפליק אנשי הקשר שלי בלבד סכל אדם מחוץ לארגון שלי
+Detected text: קבל את אפליק אנשי הקשר שלי בלבד סכל אדם מחוץ לארגון שלי (from 127.0s to 127.0s)
+Translated text: קבל את אפליק אנשי הקשר שלי בלבד סכל אדם מחוץ לארגון שלי
+Detected text: 8 בתוך הארגון שלי סמחוץ לארגון שלי (מופעל) (from 100.3s to 100.8s)
+Translated text: 8 בתוך הארגון שלי סמחוץ לארגון שלי (מופעל)
+Detected text: 8 בתוך הארגון שלי סמחוץ לארגון שלי (מופעל) (from 105.1s to 105.4s)
+Translated text: 8 בתוך הארגון שלי סמחוץ לארגון שלי (מופעל)
+Detected text: דרות חשב השב אוטומטית פעם אחת לכל שולח באמצעות ההודעות הבאות: (from 65.9s to 69.8s)
+Translated text: דרות חשב השב אוטומטית פעם אחת לכל שולח באמצעות ההודעות הבאות:
+Detected text: דרות חשב השב אוטומטית פעם אחת לכל שולח באמצעות ההודעות הבאות: (from 69.9s to 75.0s)
+Translated text: דרות חשב השב אוטומטית פעם אחת לכל שולח באמצעות ההודעות הבאות:
+Detected text: דרות חשב השב אוטומטית פעם אחת לכל שולח באמצעות ההודעות הבאות: (from 91.2s to 97.2s)
+Translated text: דרות חשב השב אוטומטית פעם אחת לכל שולח באמצעות ההודעות הבאות:
+Detected text: דרות חשב השב אוטומטית פעם אחת לכל שולח באמצעות ההודעות הבאות: (from 105.5s to 116.5s)
+Translated text: דרות חשב השב אוטומטית פעם אחת לכל שולח באמצעות ההודעות הבאות:
+Detected text: דרות חשב השב אוטומטית פעם אחת לכל שולח באמצעות ההודעות הבאות: (from 120.8s to 159.4s)
+Translated text: דרות חשב השב אוטומטית פעם אחת לכל שולח באמצעות ההודעות הבאות:
+Detected text: נשלח בטווח זמן זה בלבד: | (from 71.8s to 72.5s)
+Translated text: נשלח בטווח זמן זה בלבד: |
+Detected text: L (from 162.9s to 163.0s)
+Translated text: ל
+Detected text: ששלח בטווח זמן זה בלבד: (from 64.3s to 65.8s)
+Translated text: ששלח בטווח זמן זה בלבד:
+Detected text: ששלח בטווח זמן זה בלבד: (from 70.7s to 70.7s)
+Translated text: ששלח בטווח זמן זה בלבד:
+Detected text: כולם (from 40.3s to 42.2s)
+Translated text: כולם
+Detected text: חדש (from 40.4s to 42.2s)
+Translated text: חדש
+Detected text: הדפס (from 42.4s to 42.7s)
+Translated text: הדפס
+Detected text: הדפס (from 42.8s to 52.5s)
+Translated text: הדפס
+Detected text: בארכיון (from 40.3s to 42.2s)
+Translated text: בארכיון
+Detected text: קבל את אפליקן (from 136.8s to 144.5s)
+Translated text: קבל את אפליקן
+Detected text: = = = =: A UI B (from 105.5s to 106.0s)
+Translated text: = = = =: ממשק משתמש B
+Detected text: = = = =: A UI B (from 131.8s to 151.9s)
+Translated text: = = = =: ממשק משתמש B
+Detected text: נהל את גודל תיבת הדואר על-ידי ריקון 'פריטים שנמחקו' ואחסון בארכיון. (from 42.8s to 46.5s)
+Translated text: נהל את גודל תיבת הדואר על-ידי ריקון 'פריטים שנמחקו' ואחסון בארכיון.
+Detected text: נהל את גודל תיבת הדואר על-ידי ריקון 'פריטים שנמחקו' ואחסון בארכיון. (from 50.7s to 52.5s)
+Translated text: נהל את גודל תיבת הדואר על-ידי ריקון 'פריטים שנמחקו' ואחסון בארכיון.
+Detected text: וובות אוטו Yossi Demri (from 60.8s to 61.4s)
+Translated text: וובות אוטו Yossi Demri
+Detected text: 凡 (from 18.4s to 18.4s)
+Translated text: מְנִיפָה
+Detected text: תשובות אוטומטיות - (from 52.6s to 159.4s)
+Translated text: תשובות אוטומטיות -
+Detected text: קובץ בית שליחה/קבלה (from 41.0s to 41.9s)
+Translated text: קובץ בית שליחה/קבלה
+Detected text: PRESS ST: (from 32.7s to 32.7s)
+Translated text: הקש ST:
+Detected text: PRESS ST: (from 163.7s to 163.7s)
+Translated text: הקש ST:
+Detected text: PRESS ST: (from 164.0s to 164.2s)
+Translated text: הקש ST:
+Detected text: חובות אוטו (from 131.8s to 135.0s)
+Translated text: חובות אוטו
+Detected text: חובות אוטו (from 147.0s to 151.9s)
+Translated text: חובות אוטו
+Detected text: רב זמין להשיב ל (from 81.1s to 86.1s)
+Translated text: רב זמין להשיב ל
+Detected text: רב זמין להשיב ל (from 101.4s to 105.4s)
+Translated text: רב זמין להשיב ל
+Detected text: B: (from 52.6s to 54.2s)
+Translated text: ב:
+Detected text: חשב אוטומטית לאנשים מחוץ לארגון שלי (from 127.4s to 127.4s)
+Translated text: חשב אוטומטית לאנשים מחוץ לארגון שלי
+Detected text: בית (from 40.4s to 41.4s)
+Translated text: בית
+Detected text: בית (from 42.0s to 42.2s)
+Translated text: בית
+Detected text: ב זמין להשיב ל Yossi Demri (from 152.0s to 157.0s)
+Translated text: ב זמין להשיב ל Yossi Demri
+Detected text: ורות חשב השר אוטומטית פעם אחת לכל שלח באמצעות ההודעות הבאות: (from 55.8s to 56.2s)
+Translated text: ורות חשב השר אוטומטית פעם אחת לכל שלח באמצעות ההודעות הבאות:
+Detected text: ורות חשב השר אוטומטית פעם אחת לכל שלח באמצעות ההודעות הבאות: (from 56.6s to 60.7s)
+Translated text: ורות חשב השר אוטומטית פעם אחת לכל שלח באמצעות ההודעות הבאות:
+Detected text: 0 אנשי הקשר שלי בלבד סכל אדם מחוץ לארגון שלי (from 136.3s to 136.7s)
+Translated text: 0 אנשי הקשר שלי בלבד סכל אדם מחוץ לארגון שלי
+Detected text: 0 אנשי הקשר שלי בלבד סכל אדם מחוץ לארגון שלי (from 144.6s to 145.1s)
+Translated text: 0 אנשי הקשר שלי בלבד סכל אדם מחוץ לארגון שלי
+Detected text: הגדרות עבור ח' ה בתוך הארגון שליט מחוץ לארגון שלי (מבוטל) (from 57.1s to 58.3s)
+Translated text: הגדרות עבור ח' ה בתוך הארגון שליט מחוץ לארגון שלי (מבוטל)
+Detected text: שלבים (from 40.3s to 42.2s)
+Translated text: שלבים
+Detected text: Micr (from 52.6s to 159.4s)
+Translated text: מיקר
+Detected text: 8 - Tahoma (from 52.6s to 61.4s)
+Translated text: 8 - טהומה
+Detected text: 8 - Tahoma (from 106.8s to 107.1s)
+Translated text: 8 - טהומה
+Detected text: 8 - Tahoma (from 113.7s to 127.1s)
+Translated text: 8 - טהומה
+Detected text: מחיקה (from 40.3s to 42.2s)
+Translated text: מחיקה
+Detected text: תודה רבה על המייל ששלחת. אני כרגע בחופשה מתאריך (from 62.6s to 105.4s)
+Translated text: תודה רבה על המייל ששלחת. אני כרגע בחופשה מתאריך
+Detected text: עם גישה מוגבלת (from 62.6s to 105.4s)
+Translated text: עם גישה מוגבלת
+Detected text: תגובה (from 40.4s to 42.2s)
+Translated text: תגובה
+Detected text: שעת התחלה: יום 09/07/20211 (from 52.6s to 57.2s)
+Translated text: שעת התחלה: יום 09/07/20211
+Detected text: שעת התחלה: יום 09/07/20211 (from 57.3s to 69.8s)
+Translated text: שעת התחלה: יום 09/07/20211
+Detected text: שעת התחלה: יום 09/07/20211 (from 70.5s to 72.1s)
+Translated text: שעת התחלה: יום 09/07/20211
+Detected text: שעת התחלה: יום 09/07/20211 (from 73.7s to 74.0s)
+Translated text: שעת התחלה: יום 09/07/20211
+Detected text: שעת התחלה: יום 09/07/20211 (from 100.2s to 103.0s)
+Translated text: שעת התחלה: יום 09/07/20211
+Detected text: שבת 10/07/2021 (from 52.6s to 83.8s)
+Translated text: שבת 10/07/2021
+Detected text: שבת 10/07/2021 (from 83.9s to 159.4s)
+Translated text: שבת 10/07/2021
+Detected text: A (from 162.8s to 164.9s)
+Translated text: א
+Detected text: A (from 174.7s to 174.8s)
+Translated text: א
+Detected text: Oשלח תשובות אוטומטיות (from 53.2s to 53.4s)
+Translated text: Oשלח תשובות אוטומטיות
+Detected text: Oשלח תשובות אוטומטיות (from 53.8s to 62.5s)
+Translated text: Oשלח תשובות אוטומטיות
+Detected text: חשבון v (from 42.8s to 52.5s)
+Translated text: חשבון v
+Detected text: PRESS STA! (from 24.7s to 24.7s)
+Translated text: לחץ על STA!
+Detected text: מצורפים (from 42.4s to 42.7s)
+Translated text: מצורפים
+Detected text: מצורפים (from 42.8s to 52.5s)
+Translated text: מצורפים
+Detected text: תיבת דואר נכנס (from 40.4s to 42.2s)
+Translated text: תיבת דואר נכנס
+Detected text: מי בתוך הארגון שלי מחוץ לארגון שלי (מופעל) (from 116.6s to 120.7s)
+Translated text: מי בתוך הארגון שלי מחוץ לארגון שלי (מופעל)
+Detected text: מי בתוך הארגון שלי מחוץ לארגון שלי (מופעל) (from 129.8s to 131.1s)
+Translated text: מי בתוך הארגון שלי מחוץ לארגון שלי (מופעל)
+Detected text: שלח תשובות אוטומטיות (from 52.6s to 53.1s)
+Translated text: שלח תשובות אוטומטיות
+Detected text: שלח תשובות אוטומטיות (from 53.5s to 53.7s)
+Translated text: שלח תשובות אוטומטיות
+Detected text: דרות חשב (from 69.9s to 70.8s)
+Translated text: דרות חשב
+Detected text: דרות חשב (from 74.6s to 91.1s)
+Translated text: דרות חשב
+Detected text: דרות חשב (from 97.3s to 105.4s)
+Translated text: דרות חשב
+Detected text: דרות חשב (from 116.6s to 120.7s)
+Translated text: דרות חשב
+Detected text: חשלח בטווח זמן זה בלבד: | (from 71.0s to 71.0s)
+Translated text: חשלח בטווח זמן זה בלבד: |
+Detected text: תצוגה (from 40.4s to 42.2s)
+Translated text: תצוגה
+Detected text: Besskyi (from 40.4s to 40.5s)
+Translated text: בסקי
+Detected text: Asאנשי הקשר שלי בלבד (from 128.4s to 128.6s)
+Translated text: Asאנשי הקשר שלי בלבד
+Detected text: SUBSCRIBED (from 19.1s to 20.9s)
+Translated text: נרשם כמנוי
+Detected text: בון (from 52.6s to 54.1s)
+Translated text: בון
+Detected text: בון (from 55.8s to 62.7s)
+Translated text: בון
+Detected text: בון (from 65.9s to 74.5s)
+Translated text: בון
+Detected text: בון (from 74.6s to 90.1s)
+Translated text: בון
+Detected text: בון (from 90.8s to 100.3s)
+Translated text: בון
+Detected text: בון (from 101.4s to 127.8s)
+Translated text: בון
+Detected text: בון (from 131.8s to 159.4s)
+Translated text: בון
+Detected text: % השב לכולם (from 40.3s to 40.5s)
+Translated text: % השב לכולם
+Detected text: הגדרות עבור ח ת (from 61.7s to 61.9s)
+Translated text: הגדרות עבור ח ת
+Detected text: הגדרות עבור ח ת (from 62.6s to 63.3s)
+Translated text: הגדרות עבור ח ת
+Detected text: מש בתשובות א (from 52.6s to 159.4s)
+Translated text: מש בתשובות א
+Detected text: כל אדם מחוץ לארגון שלי (from 131.8s to 135.0s)
+Translated text: כל אדם מחוץ לארגון שלי
+Detected text: השב E (from 41.2s to 41.9s)
+Translated text: השב E
+Detected text: םשלח בטווח זמן זה בלבד: (from 62.6s to 64.2s)
+Translated text: םשלח בטווח זמן זה בלבד:
+Detected text: םשלח בטווח זמן זה בלבד: (from 65.9s to 70.6s)
+Translated text: םשלח בטווח זמן זה בלבד:
+Detected text: / השב xטומטית לאנשים מחוץ לארגון שלי (from 136.3s to 136.3s)
+Translated text: / השב xטומטית לאנשים מחוץ לארגון שלי
+Detected text: כוך (from 62.8s to 65.8s)
+Translated text: כוך
+Detected text: כוך (from 90.2s to 90.7s)
+Translated text: כוך
+Detected text: כוך (from 127.9s to 131.7s)
+Translated text: כוך
+Detected text: I (from 65.9s to 75.9s)
+Translated text: אֲנִי
+Detected text: I (from 76.0s to 81.0s)
+Translated text: אֲנִי
+Detected text: I (from 86.2s to 89.9s)
+Translated text: אֲנִי
+Detected text: I (from 90.7s to 91.1s)
+Translated text: אֲנִי
+Detected text: I (from 91.2s to 105.4s)
+Translated text: אֲנִי
+Detected text: הגדרות עבור ח ל בתוך הארגון שלי מחוץ לארגון שלי (מבוטל) (from 54.3s to 57.0s)
+Translated text: הגדרות עבור ח ל בתוך הארגון שלי מחוץ לארגון שלי (מבוטל)
+Detected text: הגדרות עבור ח ל בתוך הארגון שלי מחוץ לארגון שלי (מבוטל) (from 58.4s to 60.7s)
+Translated text: הגדרות עבור ח ל בתוך הארגון שלי מחוץ לארגון שלי (מבוטל)
+Detected text: אפשרויות (from 42.8s to 52.5s)
+Translated text: אפשרויות
+Detected text: YAPC (from 7.8s to 8.7s)
+Translated text: YAPC
+Detected text: עזרה (from 40.4s to 42.2s)
+Translated text: עזרה
+Detected text: Yossi_De (from 81.1s to 86.1s)
+Translated text: יוסי_דה
+Detected text: דרות חשב השר אוטומטית פעם אחת לכל שולח באמצעות ההודעות הבאות: (from 52.6s to 55.7s)
+Translated text: דרות חשב השר אוטומטית פעם אחת לכל שולח באמצעות ההודעות הבאות:
+Detected text: 09/07/2021 (from 81.1s to 86.1s)
+Translated text: 09/07/2021
+Detected text: 09/07/2021 (from 91.4s to 100.1s)
+Translated text: 09/07/2021
+Detected text: 09/07/2021 (from 106.4s to 111.4s)
+Translated text: 09/07/2021
+Detected text: 09/07/2021 (from 116.6s to 136.7s)
+Translated text: 09/07/2021
+Detected text: 09/07/2021 (from 141.9s to 157.0s)
+Translated text: 09/07/2021
+Detected text: מ בתוך הארגון שלי מחוץ לארגון שלי (מופעל) (from 63.6s to 65.8s)
+Translated text: מ בתוך הארגון שלי מחוץ לארגון שלי (מופעל)
+Detected text: מ בתוך הארגון שלי מחוץ לארגון שלי (מופעל) (from 71.0s to 75.1s)
+Translated text: מ בתוך הארגון שלי מחוץ לארגון שלי (מופעל)
+Detected text: מ בתוך הארגון שלי מחוץ לארגון שלי (מופעל) (from 157.1s to 159.4s)
+Translated text: מ בתוך הארגון שלי מחוץ לארגון שלי (מופעל)
+Detected text: - העבר (from 40.3s to 42.2s)
+Translated text: - העבר
+Detected text: תשובות אוטומטיות (מחוץ למשרד) (from 42.8s to 52.5s)
+Translated text: תשובות אוטומטיות (מחוץ למשרד)
+Detected text: WEL (from 25.7s to 26.2s)
+Translated text: טוֹב
+Detected text: WEL (from 165.4s to 165.6s)
+Translated text: טוֹב
+Detected text: WEL (from 169.4s to 169.9s)
+Translated text: טוֹב
+Detected text: WEL (from 170.6s to 171.2s)
+Translated text: טוֹב
+Detected text: WEL (from 175.9s to 176.4s)
+Translated text: טוֹב
+Detected text: קבל את אפליק (from 52.6s to 62.5s)
+Translated text: קבל את אפליק
+Detected text: קבל את אפליק (from 111.5s to 116.5s)
+Translated text: קבל את אפליק
+Detected text: קבל את אפליק (from 121.6s to 136.2s)
+Translated text: קבל את אפליק
+Detected text: קבל את אפליק (from 145.2s to 146.9s)
+Translated text: קבל את אפליק
+Detected text: קבל את אפליק (from 147.0s to 159.4s)
+Translated text: קבל את אפליק
+Detected text: השב אויוומטית לאנשים מחוץ לארגון שלי (from 129.0s to 129.0s)
+Translated text: השב אויוומטית לאנשים מחוץ לארגון שלי
+Detected text: PRESS STA (from 15.1s to 15.5s)
+Translated text: לחץ על STA
+Detected text: PRESS STA (from 16.3s to 20.2s)
+Translated text: לחץ על STA
+Detected text: PRESS STA (from 24.6s to 24.6s)
+Translated text: לחץ על STA
+Detected text: PRESS STA (from 29.3s to 30.8s)
+Translated text: לחץ על STA
+Detected text: PRESS STA (from 173.7s to 173.7s)
+Translated text: לחץ על STA
+Detected text: 身 (from 19.7s to 20.4s)
+Translated text: גוּף
+Detected text: WWwW.Y4PC.CO.IL (from 11.6s to 11.6s)
+Translated text: WwwW.Y4PC.CO.IL
+Detected text: O (from 45.6s to 50.6s)
+Translated text: THE
+Detected text: Yossi Demri (from 52.6s to 55.7s)
+Translated text: יוסי דמרי
+Detected text: Yossi Demri (from 61.5s to 62.5s)
+Translated text: יוסי דמרי
+Detected text: Yossi Demri (from 106.7s to 107.4s)
+Translated text: יוסי דמרי
+Detected text: - למנהל (from 40.4s to 42.2s)
+Translated text: - למנהל
+Detected text: מועדפים (from 40.4s to 42.2s)
+Translated text: מועדפים
+Detected text: פ. בתוך הארגון שלי מחוץ לארגון שלי (מופעל) (from 106.4s to 111.4s)
+Translated text: פ. בתוך הארגון שלי מחוץ לארגון שלי (מופעל)
+Detected text: פ. בתוך הארגון שלי מחוץ לארגון שלי (מופעל) (from 113.7s to 114.0s)
+Translated text: פ. בתוך הארגון שלי מחוץ לארגון שלי (מופעל)
+Detected text: פ. בתוך הארגון שלי מחוץ לארגון שלי (מופעל) (from 147.0s to 157.0s)
+Translated text: פ. בתוך הארגון שלי מחוץ לארגון שלי (מופעל)
+Detected text: ב זמין להשיב ל (from 63.4s to 65.8s)
+Translated text: ב זמין להשיב ל
+Detected text: ב זמין להשיב ל (from 71.0s to 81.0s)
+Translated text: ב זמין להשיב ל
+Detected text: הגדרות עבור ח (from 111.5s to 116.5s)
+Translated text: הגדרות עבור ח
+Detected text: הגדרות עבור ח (from 131.2s to 131.7s)
+Translated text: הגדרות עבור ח
+Detected text: הגדרות עבור ח (from 136.8s to 141.8s)
+Translated text: הגדרות עבור ח
+Detected text: דרות חשב השר אוטומטית פעם אחת לכל שלח באמצעות ההודעות הבאות: (from 56.3s to 56.5s)
+Translated text: דרות חשב השר אוטומטית פעם אחת לכל שלח באמצעות ההודעות הבאות:
+Detected text: מחק (from 40.4s to 42.2s)
+Translated text: מחק
+Detected text: ס אל תשלח תשובות אוטומטיות (from 53.4s to 53.7s)
+Translated text: ס אל תשלח תשובות אוטומטיות
+Detected text: ס אל תשלח תשובות אוטומטיות (from 58.4s to 59.2s)
+Translated text: ס אל תשלח תשובות אוטומטיות
+Detected text: ס אל תשלח תשובות אוטומטיות (from 60.0s to 61.6s)
+Translated text: ס אל תשלח תשובות אוטומטיות
+Detected text: Yossi_D (from 52.6s to 81.0s)
+Translated text: יוסי_ד
+Detected text: Yossi_D (from 86.2s to 159.4s)
+Translated text: יוסי_ד
+Detected text: הגדרות עבור ח ל בתוך הארגון שלי מחוץ לארגון שלי (מופעל) (from 61.5s to 62.5s)
+Translated text: הגדרות עבור ח ל בתוך הארגון שלי מחוץ לארגון שלי (מופעל)
+Detected text: הגדרות עבור ח ל בתוך הארגון שלי מחוץ לארגון שלי (מופעל) (from 70.8s to 72.4s)
+Translated text: הגדרות עבור ח ל בתוך הארגון שלי מחוץ לארגון שלי (מופעל)
+Detected text: כולם לא נקראו (from 40.4s to 40.5s)
+Translated text: כולם לא נקראו
+Detected text: קובץ[ (from 42.0s to 42.2s)
+Translated text: קובץ[
+Detected text: חפש ב: תיבת הדואר הנוכחית (from 40.3s to 42.2s)
+Translated text: חפש ב: תיבת הדואר הנוכחית
+Detected text: שעת התחלה: יום 09/07/2021 (from 69.9s to 70.4s)
+Translated text: שעת התחלה: יום 09/07/2021
+Detected text: שעת התחלה: יום 09/07/2021 (from 72.6s to 73.6s)
+Translated text: שעת התחלה: יום 09/07/2021
+Detected text: שעת התחלה: יום 09/07/2021 (from 74.1s to 81.0s)
+Translated text: שעת התחלה: יום 09/07/2021
+Detected text: שעת התחלה: יום 09/07/2021 (from 86.2s to 91.3s)
+Translated text: שעת התחלה: יום 09/07/2021
+Detected text: שעת התחלה: יום 09/07/2021 (from 103.1s to 106.3s)
+Translated text: שעת התחלה: יום 09/07/2021
+Detected text: שעת התחלה: יום 09/07/2021 (from 111.5s to 116.5s)
+Translated text: שעת התחלה: יום 09/07/2021
+Detected text: שעת התחלה: יום 09/07/2021 (from 136.8s to 141.8s)
+Translated text: שעת התחלה: יום 09/07/2021
+Detected text: שעת התחלה: יום 09/07/2021 (from 157.1s to 159.4s)
+Translated text: שעת התחלה: יום 09/07/2021
+Detected text: י 75.3 GB פנויים מתוך 99 GB (from 42.8s to 52.5s)
+Translated text: י 75.3 GB פנויים מתוך 99 GB
+Detected text: Oאנשי הקשר שלי בלבד סכל אדם מחוץ לארגון שלי (from 127.6s to 127.6s)
+Translated text: Oאנשי הקשר שלי בלבד סכל אדם מחוץ לארגון שלי
+Detected text: Oאנשי הקשר שלי בלבד סכל אדם מחוץ לארגון שלי (from 127.8s to 131.0s)
+Translated text: Oאנשי הקשר שלי בלבד סכל אדם מחוץ לארגון שלי
+Detected text: Oאנשי הקשר שלי בלבד סכל אדם מחוץ לארגון שלי (from 145.2s to 146.7s)
+Translated text: Oאנשי הקשר שלי בלבד סכל אדם מחוץ לארגון שלי
+Detected text: שנה הגדרות עבור חשבון זה או הגדר חיבורים נוספים. (from 42.8s to 52.5s)
+Translated text: שנה הגדרות עבור חשבון זה או הגדר חיבורים נוספים.
+Detected text: והשב אוטומטית לאנשים מחוץ לארגון שלי (from 145.2s to 146.7s)
+Translated text: והשב אוטומטית לאנשים מחוץ לארגון שלי
+Detected text: Besskyi L (from 40.6s to 41.5s)
+Translated text: בסקי ל
+Detected text: AWEL (from 173.2s to 173.4s)
+Translated text: רוּחַ
+Detected text: קבל את אפליק A U IB := (from 90.0s to 90.8s)
+Translated text: קבל את אפליק A U IB :=
+Detected text: ר זמין להשיב ל (from 52.6s to 55.7s)
+Translated text: ר זמין להשיב ל
+Detected text: ר זמין להשיב ל (from 62.6s to 63.3s)
+Translated text: ר זמין להשיב ל
+Detected text: ר זמין להשיב ל (from 65.9s to 70.9s)
+Translated text: ר זמין להשיב ל
+Detected text: ר זמין להשיב ל (from 86.2s to 101.3s)
+Translated text: ר זמין להשיב ל
+Detected text: ר זמין להשיב ל (from 106.7s to 107.4s)
+Translated text: ר זמין להשיב ל
+Detected text: הגדרות עבור ח ת בתוך הארגון שלי מחוץ לארגון שלי (מבוטל) (from 60.8s to 61.4s)
+Translated text: הגדרות עבור ח ת בתוך הארגון שלי מחוץ לארגון שלי (מבוטל)
+Detected text: שמור קבצים (from 42.4s to 42.7s)
+Translated text: שמור קבצים
+Detected text: שמור קבצים (from 42.8s to 52.5s)
+Translated text: שמור קבצים
+Detected text: Best Regards (from 52.6s to 62.5s)
+Translated text: בברכה
+Detected text: Best Regards (from 105.5s to 126.3s)
+Translated text: בברכה
+Detected text: Best Regards (from 126.7s to 159.4s)
+Translated text: בברכה
+Detected text: דואר פריטים (from 40.4s to 42.2s)
+Translated text: דואר פריטים
+Detected text: אל תשלח תשובות אוטומטיות (from 61.7s to 62.5s)
+Translated text: אל תשלח תשובות אוטומטיות
+Detected text: אל תשלח תשובות אוטומטיות (from 65.9s to 73.8s)
+Translated text: אל תשלח תשובות אוטומטיות
+Detected text: אל תשלח תשובות אוטומטיות (from 75.2s to 89.9s)
+Translated text: אל תשלח תשובות אוטומטיות
+Detected text: אל תשלח תשובות אוטומטיות (from 90.9s to 91.2s)
+Translated text: אל תשלח תשובות אוטומטיות
+Detected text: אל תשלח תשובות אוטומטיות (from 91.3s to 101.3s)
+Translated text: אל תשלח תשובות אוטומטיות
+Detected text: אל תשלח תשובות אוטומטיות (from 106.6s to 146.9s)
+Translated text: אל תשלח תשובות אוטומטיות
+Detected text: אל תשלח תשובות אוטומטיות (from 152.0s to 157.0s)
+Translated text: אל תשלח תשובות אוטומטיות
+Detected text: פריטים שנשלחו (from 40.4s to 42.2s)
+Translated text: פריטים שנשלחו
+Detected text: כי בתוך הארגון שלי מחוץ לארגון שלי (מופעל) (from 90.7s to 96.2s)
+Translated text: כי בתוך הארגון שלי מחוץ לארגון שלי (מופעל)
+Detected text: כי בתוך הארגון שלי מחוץ לארגון שלי (מופעל) (from 141.9s to 146.9s)
+Translated text: כי בתוך הארגון שלי מחוץ לארגון שלי (מופעל)
+Detected text: 3 בתוך הארגון שלי מחוץ לארגון שלי (מופעל) (from 65.9s to 70.9s)
+Translated text: 3 בתוך הארגון שלי מחוץ לארגון שלי (מופעל)
+Detected text: השק אוטומטית לאנשים מחוץ לארגון שלי (from 127.1s to 127.1s)
+Translated text: השק אוטומטית לאנשים מחוץ לארגון שלי
+Detected text: סאל תשלח תשובות אוטומטיות (from 52.6s to 53.3s)
+Translated text: סאל תשלח תשובות אוטומטיות
+Detected text: סאל תשלח תשובות אוטומטיות (from 53.8s to 54.2s)
+Translated text: סאל תשלח תשובות אוטומטיות
+Detected text: סאל תשלח תשובות אוטומטיות (from 59.3s to 59.9s)
+Translated text: סאל תשלח תשובות אוטומטיות
+Detected text: הגדרות עבור ח ה רחוב הארגון שלי מחוץ לארגון שלי (מופעל) (from 127.0s to 127.6s)
+Translated text: הגדרות עבור ח ה רחוב הארגון שלי מחוץ לארגון שלי (מופעל)
+Detected text: לא נקראו (from 40.6s to 42.2s)
+Translated text: לא נקראו
+Detected text: קבל את אפליק. אנשי הקשר שלי בלבד סכל אדם מחוץ לארגון שלי (from 127.2s to 127.2s)
+Translated text: קבל את אפליק. אנשי הקשר שלי בלבד סכל אדם מחוץ לארגון שלי
+Detected text: s://outlook.office365.com/owa/asus.com/ (from 42.4s to 42.7s)
+Translated text: s://outlook.office365.com/owa/asus.com/
+Detected text: אלקטרוני חדש חדשים (from 40.4s to 40.5s)
+Translated text: אלקטרוני חדש חדשים
+Detected text: www.Y4PC.CO.IL (from 9.1s to 10.5s)
+Translated text: www.Y4PC.CO.IL
+Detected text: www.Y4PC.CO.IL (from 11.8s to 11.8s)
+Translated text: www.Y4PC.CO.IL
+Detected text: הגדרות חשבון (from 42.3s to 42.7s)
+Translated text: הגדרות חשבון
+Detected text: הגדרות חשבון (from 42.8s to 52.5s)
+Translated text: הגדרות חשבון
+Detected text: שלח בטווח זמן זה בלבד:A (from 56.6s to 56.6s)
+Translated text: שלח בטווח זמן זה בלבד:A
+Detected text: שעת התחלה: יום ר (from 81.1s to 86.1s)
+Translated text: שעת התחלה: יום ר
+Detected text: שעת התחלה: יום ר (from 91.4s to 100.1s)
+Translated text: שעת התחלה: יום ר
+Detected text: שעת התחלה: יום ר (from 106.4s to 111.4s)
+Translated text: שעת התחלה: יום ר
+Detected text: שעת התחלה: יום ר (from 116.6s to 136.7s)
+Translated text: שעת התחלה: יום ר
+Detected text: שעת התחלה: יום ר (from 141.9s to 157.0s)
+Translated text: שעת התחלה: יום ר
+Detected text: Thank you for your email. I'm out of the office and will be back at 18/04. During this period I will have (from 52.6s to 62.5s)
+Translated text: תודה על המייל שלך. אני מחוץ למשרד ואחזור ב-18/04. בתקופה זו יהיה לי
+Detected text: Thank you for your email. I'm out of the office and will be back at 18/04. During this period I will have (from 105.5s to 159.4s)
+Translated text: תודה על המייל שלך. אני מחוץ למשרד ואחזור ב-18/04. בתקופה זו יהיה לי
+Detected text: שלח בטווומן זה בלבד: (from 56.8s to 56.8s)
+Translated text: שלח בטווומן זה בלבד:
+Detected text: פתח ויצא (from 42.4s to 42.7s)
+Translated text: פתח ויצא
+Detected text: פתח ויצא (from 42.8s to 52.5s)
+Translated text: פתח ויצא
+Detected text: E דואר א (from 40.3s to 42.2s)
+Translated text: E דואר א
+Detected text: JEL (from 159.5s to 160.3s)
+Translated text: סִימָן
+Detected text: JEL (from 171.9s to 172.8s)
+Translated text: סִימָן
+Detected text: אחסן (from 40.4s to 42.2s)
+Translated text: אחסן
+Detected text: הסרטון האחרון! (from 178.0s to 198.0s)
+Translated text: הסרטון האחרון!
+Detected text: PRESS ST (from 0.0s to 5.4s)
+Translated text: לחץ על ST
+Detected text: PRESS ST (from 5.9s to 6.1s)
+Translated text: לחץ על ST
+Detected text: PRESS ST (from 14.0s to 15.0s)
+Translated text: לחץ על ST
+Detected text: PRESS ST (from 15.6s to 16.2s)
+Translated text: לחץ על ST
+Detected text: PRESS ST (from 20.8s to 24.3s)
+Translated text: לחץ על ST
+Detected text: PRESS ST (from 28.4s to 29.2s)
+Translated text: לחץ על ST
+Detected text: PRESS ST (from 30.9s to 31.2s)
+Translated text: לחץ על ST
+Detected text: PRESS ST (from 33.0s to 33.0s)
+Translated text: לחץ על ST
+Detected text: PRESS ST (from 34.2s to 35.7s)
+Translated text: לחץ על ST
+Detected text: PRESS ST (from 35.8s to 38.3s)
+Translated text: לחץ על ST
+Detected text: PRESS ST (from 39.9s to 40.1s)
+Translated text: לחץ על ST
+Detected text: PRESS ST (from 159.5s to 162.3s)
+Translated text: לחץ על ST
+Detected text: PRESS ST (from 162.7s to 163.5s)
+Translated text: לחץ על ST
+Detected text: PRESS ST (from 164.3s to 167.9s)
+Translated text: לחץ על ST
+Detected text: PRESS ST (from 168.0s to 172.8s)
+Translated text: לחץ על ST
+Detected text: PRESS ST (from 173.6s to 173.6s)
+Translated text: לחץ על ST
+Detected text: PRESS ST (from 173.8s to 175.9s)
+Translated text: לחץ על ST
+Detected text: PRESS ST (from 176.0s to 177.9s)
+Translated text: לחץ על ST
+Detected text: הגדרות תיבת דואר (from 42.8s to 52.5s)
+Translated text: הגדרות תיבת דואר
+Detected text: אלקטרוני חדש חדשים v (from 40.6s to 42.2s)
+Translated text: אלקטרוני חדש חדשים v
+Detected text: ועד ל- (from 62.6s to 105.4s)
+Translated text: ועד ל-
+Detected text: 1004 (from 40.4s to 42.2s)
+Translated text: 1004
+Detected text: שעת סיום: שב (from 83.7s to 83.8s)
+Translated text: שעת סיום: שב
+Detected text: מידע (from 42.4s to 42.7s)
+Translated text: מידע
+Detected text: מידע (from 42.8s to 52.5s)
+Translated text: מידע
+Detected text: הגדרות עבור חיה בתוך הארגון שלי מחוץ לארגון שלי (מופעל) (from 100.9s to 105.0s)
+Translated text: הגדרות עבור חיה בתוך הארגון שלי מחוץ לארגון שלי (מופעל)
+Detected text: Android ,iPad iPhone או Windows 10 Mobile, (from 42.8s to 52.5s)
+Translated text: אנדרואיד, אייפד אייפון או Windows 10 Mobile,
+Detected text: Oאנשי הקשר שלי בלבד (from 106.4s to 128.0s)
+Translated text: Oאנשי הקשר שלי בלבד
+Detected text: Oאנשי הקשר שלי בלבד (from 128.8s to 129.8s)
+Translated text: Oאנשי הקשר שלי בלבד
+Detected text: Oאנשי הקשר שלי בלבד (from 131.1s to 136.0s)
+Translated text: Oאנשי הקשר שלי בלבד
+Detected text: Oאנשי הקשר שלי בלבד (from 136.8s to 144.5s)
+Translated text: Oאנשי הקשר שלי בלבד
+Detected text: Oאנשי הקשר שלי בלבד (from 146.8s to 159.4s)
+Translated text: Oאנשי הקשר שלי בלבד
+Detected text: שנה הגדרות עבור חשבון זה או הגדר חיבורים (from 42.3s to 42.7s)
+Translated text: שנה הגדרות עבור חשבון זה או הגדר חיבורים
+Detected text: קבל את אפליק ה (from 136.3s to 136.7s)
+Translated text: קבל את אפליק ה
+Detected text: קבל את אפליק ה (from 144.6s to 145.1s)
+Translated text: קבל את אפליק ה
+Detected text: PRESS S (from 31.3s to 32.6s)
+Translated text: הקש S
+Detected text: PRESS S (from 33.1s to 34.1s)
+Translated text: לחץ על S
+Detected text: PRESS S (from 38.4s to 39.8s)
+Translated text: הקש S
+Detected text: . בתוך הארגון שלי מחוץ לארגון שלי (מופעל) (from 128.9s to 129.7s)
+Translated text: . בתוך הארגון שלי מחוץ לארגון שלי (מופעל)
+Detected text: 0אל תשלח תשובות אוטומטיות (from 101.4s to 106.5s)
+Translated text: 0אל תשלח תשובות אוטומטיות
+Detected text: 0אל תשלח תשובות אוטומטיות (from 147.0s to 151.9s)
+Translated text: 0אל תשלח תשובות אוטומטיות
+Detected text: שאינך זמין להשיב להודעות דואר אלקטרוני. (from 42.8s to 52.5s)
+Translated text: שאינך זמין להשיב להודעות דואר אלקטרוני.
+Detected text: PRESS (from 24.8s to 28.3s)
+Translated text: לִלְחוֹץ
+Detected text: ל בתוך הארגון שלי מחוץ לארגון שלי (מופעל) (from 105.5s to 106.3s)
+Translated text: ל בתוך הארגון שלי מחוץ לארגון שלי (מופעל)
+Detected text: .WWw.Y4PC.co.IL (from 10.7s to 10.7s)
+Translated text: .WWw.Y4PC.co.IL
+Detected text: מחוץ לארגון שלי (מופעל) (from 61.7s to 61.9s)
+Translated text: מחוץ לארגון שלי (מופעל)
+Detected text: מחוץ לארגון שלי (מופעל) (from 62.6s to 63.3s)
+Translated text: מחוץ לארגון שלי (מופעל)
+Detected text: מחוץ לארגון שלי (מופעל) (from 100.2s to 100.4s)
+Translated text: מחוץ לארגון שלי (מופעל)
+Detected text: מחוץ לארגון שלי (מופעל) (from 103.0s to 104.7s)
+Translated text: מחוץ לארגון שלי (מופעל)
+Detected text: מחוץ לארגון שלי (מופעל) (from 111.5s to 116.5s)
+Translated text: מחוץ לארגון שלי (מופעל)
+Detected text: מחוץ לארגון שלי (מופעל) (from 126.7s to 126.8s)
+Translated text: מחוץ לארגון שלי (מופעל)
+Detected text: מחוץ לארגון שלי (מופעל) (from 127.8s to 128.8s)
+Translated text: מחוץ לארגון שלי (מופעל)
+Detected text: מחוץ לארגון שלי (מופעל) (from 131.2s to 131.7s)
+Translated text: מחוץ לארגון שלי (מופעל)
+Detected text: הגדרות עבור ח' ה (from 63.6s to 65.8s)
+Translated text: הגדרות עבור ח' ה
+Detected text: הגדרות עבור ח' ה (from 105.8s to 111.4s)
+Translated text: הגדרות עבור ח' ה
+Detected text: הגדרות עבור ח' ה (from 116.6s to 121.5s)
+Translated text: הגדרות עבור ח' ה
+Detected text: הגדרות עבור ח' ה (from 126.9s to 129.0s)
+Translated text: הגדרות עבור ח' ה
+Detected text: הגדרות עבור ח' ה (from 129.1s to 131.1s)
+Translated text: הגדרות עבור ח' ה
+Detected text: הגדרות עבור ח' ה (from 152.0s to 159.4s)
+Translated text: הגדרות עבור ח' ה
+Detected text: שליחה/קבלה (from 40.4s to 42.2s)
+Translated text: שליחה/קבלה
+Detected text: היום (from 40.3s to 42.2s)
+Translated text: היום
+Detected text: תשובות (from 42.8s to 52.5s)
+Translated text: תשובות
+Detected text: נ שלח בטווח זמן זה בלבד: (from 60.8s to 61.5s)
+Translated text: נ שלח בטווח זמן זה בלבד:
+Detected text: כון (from 54.2s to 55.7s)
+Translated text: כבודו
+Detected text: כלים (from 42.8s to 52.5s)
+Translated text: כלים
+Detected text: וומטיות - (from 59.5s to 59.8s)
+Translated text: וומטיות -
+Detected text: Y4PC (from 8.5s to 12.6s)
+Translated text: Y4PC
+Detected text: Y4PC (from 178.0s to 198.0s)
+Translated text: Y4PC
+Detected text: Yossi (from 42.5s to 42.7s)
+Translated text: יוסי
+Detected text: שלח בטווח זמן זה בלבד: (from 53.5s to 56.5s)
+Translated text: שלח בטווח זמן זה בלבד:
+Detected text: שלח בטווח זמן זה בלבד: (from 57.0s to 60.7s)
+Translated text: שלח בטווח זמן זה בלבד:
+Detected text: שלח בטווח זמן זה בלבד: (from 70.8s to 70.8s)
+Translated text: שלח בטווח זמן זה בלבד:
+Detected text: שלח בטווח זמן זה בלבד: (from 74.5s to 159.4s)
+Translated text: שלח בטווח זמן זה בלבד:
+Detected text: שלח בטווח זמן זה בלבד: | (from 70.9s to 70.9s)
+Translated text: שלח בטווח זמן זה בלבד: |
+Detected text: שלח בטווח זמן זה בלבד: | (from 71.1s to 71.7s)
+Translated text: שלח בטווח זמן זה בלבד: |
+Detected text: שלח בטווח זמן זה בלבד: | (from 72.6s to 74.0s)
+Translated text: שלח בטווח זמן זה בלבד: |
+Detected text: שלח בטווח זמן זה בלבד:| (from 74.1s to 74.4s)
+Translated text: שלח בטווח זמן זה בלבד:|
+Detected text: בזמין להשיב ל Yossi Demri (from 106.4s to 106.6s)
+Translated text: בזמין להשיב ל Yossi Demri
+Detected text: בזמין להשיב ל Yossi Demri (from 131.8s to 146.7s)
+Translated text: בזמין להשיב ל Yossi Demri
+Detected text: להשב Besky (from 40.4s to 41.9s)
+Translated text: להשב Besky
+Detected text: השב לכולם (from 40.6s to 42.2s)
+Translated text: השב לכולם
+Detected text: WWW.Y4PC.CO.IL (from 11.7s to 11.7s)
+Translated text: WWW.Y4PC.CO.IL
+Detected text: WWW.Y4PC.CO.IL (from 12.0s to 12.0s)
+Translated text: WWW.Y4PC.CO.IL
+Detected text: WWW.Y4PC.CO.IL (from 197.6s to 198.0s)
+Translated text: WWW.Y4PC.CO.IL
+Detected text: וובות אוטן Yossi Demri (from 55.8s to 60.7s)
+Translated text: וובות אוטן Yossi Demri
+Detected text: הגדרות עבור חיה בתוך הארגון שליט מחוץ לארגון שלי (מופעל) (from 63.4s to 63.5s)
+Translated text: הגדרות עבור חיה בתוך הארגון שליט מחוץ לארגון שלי (מופעל)
+Detected text: א (from 45.0s to 45.7s)
+Translated text: א
+Detected text: ,Best Regards (from 126.4s to 126.6s)
+Translated text: ,בברכה
+Detected text: השר אוטומטית לאנשים מחוץ לארגון שלי (from 128.9s to 128.9s)
+Translated text: השר אוטומטית לאנשים מחוץ לארגון שלי
+Detected text: Microsoft Exchange (from 42.4s to 42.7s)
+Translated text: Microsoft Exchange
+Detected text: Microsoft Exchange (from 42.8s to 52.5s)
+Translated text: Microsoft Exchange
+Detected text: ס שלח תשובות אוטומטיות (from 92.7s to 97.2s)
+Translated text: ס שלח תשובות אוטומטיות
+Detected text: O אנשי הקשר שלי בלבד סכל אדם מחוץ לארגון שלי (from 127.7s to 127.7s)
+Translated text: O אנשי הקשר שלי בלבד סכל אדם מחוץ לארגון שלי
+Detected text: שלח בטווח זמן זו בלבד: (from 56.7s to 56.7s)
+Translated text: שלח בטווח זמן זו בלבד:
+Detected text: PRESS ST) (from 24.4s to 24.4s)
+Translated text: הקש ST)
+Detected text: PRESS ST) (from 173.4s to 173.4s)
+Translated text: הקש ST)
+Detected text: הגדרות עבור ח ה (from 105.5s to 105.7s)
+Translated text: הגדרות עבור ח ה
+Detected text: הגדרות עבור ח ה (from 131.8s to 135.2s)
+Translated text: הגדרות עבור ח ה
+Detected text: הגדרות עבור ח ה (from 135.7s to 136.7s)
+Translated text: הגדרות עבור ח ה
+Detected text: הגדרות עבור ח ה (from 141.9s to 146.9s)
+Translated text: הגדרות עבור ח ה
+Detected text: PRESS ST. (from 5.5s to 5.8s)
+Translated text: לחץ על ST.
+Detected text: PRESS ST. (from 20.3s to 20.7s)
+Translated text: לחץ על ST.
+Detected text: PRESS ST. (from 32.9s to 32.9s)
+Translated text: לחץ על ST.
+Detected text: PRESS ST. (from 162.4s to 162.6s)
+Translated text: לחץ על ST.
+Detected text: PRESS ST. (from 163.6s to 163.6s)
+Translated text: לחץ על ST.
+Detected text: PRESS ST. (from 172.9s to 173.3s)
+Translated text: לחץ על ST.
+Detected text: שלח בטווwמן זה בלבד: (from 56.9s to 56.9s)
+Translated text: שלח בטווwמן זה בלבד:
+Detected text: ר זמין להשיב ל Yossi Demril (from 116.6s to 121.6s)
+Translated text: ר זמין להשיב ל Yossi Demril
+Detected text: ר זמין להשיב ל Yossi Demril (from 122.5s to 126.3s)
+Translated text: ר זמין להשיב ל Yossi Demril
+Detected text: הגדרות עבור חי (from 65.9s to 75.1s)
+Translated text: הגדרות עבור חי
+Detected text: הגדרות עבור חי (from 91.2s to 96.2s)
+Translated text: הגדרות עבור חי
+Detected text: הגדרות עבור חי (from 99.9s to 100.8s)
+Translated text: הגדרות עבור חי
+Detected text: הגדרות עבור חי (from 103.0s to 105.4s)
+Translated text: הגדרות עבור חי
+Detected text: A שעת התחלה: יום 09/07/20211 (from 72.2s to 72.5s)
+Translated text: A שעת התחלה: יום 09/07/20211
+Detected text: סכל אדם מחוץ לארגון שלי (from 106.4s to 129.8s)
+Translated text: סכל אדם מחוץ לארגון שלי
+Detected text: סכל אדם מחוץ לארגון שלי (from 131.1s to 131.7s)
+Translated text: סכל אדם מחוץ לארגון שלי
+Detected text: סכל אדם מחוץ לארגון שלי (from 135.1s to 136.0s)
+Translated text: סכל אדם מחוץ לארגון שלי
+Detected text: סכל אדם מחוץ לארגון שלי (from 136.8s to 144.5s)
+Translated text: סכל אדם מחוץ לארגון שלי
+Detected text: סכל אדם מחוץ לארגון שלי (from 146.8s to 159.4s)
+Translated text: סכל אדם מחוץ לארגון שלי
+Detected text: י קבל את אפליקציית Outlook עבור (from 42.8s to 52.5s)
+Translated text: י קבל את אפליקציית Outlook עבור
+Detected text: הרשמה לערוץ! (from 178.0s to 198.0s)
+Translated text: הרשמה לערוץ!
+Detected text: 8 (from 55.8s to 56.0s)
+Translated text: 8
+Detected text: 8 (from 61.5s to 99.8s)
+Translated text: 8
+Detected text: 8 (from 99.9s to 100.6s)
+Translated text: 8
+Detected text: 8 (from 100.7s to 104.0s)
+Translated text: 8
+Detected text: 8 (from 103.3s to 103.4s)
+Translated text: 8
+Detected text: 8 (from 104.1s to 105.4s)
+Translated text: 8
+Detected text: 8 (from 104.8s to 105.2s)
+Translated text: 8
+Detected text: 8 (from 105.6s to 106.3s)
+Translated text: 8
+Detected text: 8 (from 106.4s to 106.7s)
+Translated text: 8
+Detected text: 8 (from 107.3s to 113.6s)
+Translated text: 8
+Detected text: 8 (from 126.7s to 131.7s)
+Translated text: 8
+Detected text: 8 (from 126.9s to 127.8s)
+Translated text: 8
+Detected text: 8 (from 135.7s to 135.8s)
+Translated text: 8
+Detected text: 8 (from 136.8s to 141.8s)
+Translated text: 8
+Detected text: 8 (from 141.9s to 146.7s)
+Translated text: 8
+Detected text: 8 (from 146.8s to 159.4s)
+Translated text: 8
+Detected text: השב אוטומטית פעם אחת לכל שולח באמצעות ההודעות הבאות: (from 62.6s to 65.8s)
+Translated text: השב אוטומטית פעם אחת לכל שולח באמצעות ההודעות הבאות:
+Detected text: השב אוטומטית פעם אחת לכל שולח באמצעות ההודעות הבאות: (from 75.1s to 91.1s)
+Translated text: השב אוטומטית פעם אחת לכל שולח באמצעות ההודעות הבאות:
+Detected text: השב אוטומטית פעם אחת לכל שולח באמצעות ההודעות הבאות: (from 97.3s to 105.4s)
+Translated text: השב אוטומטית פעם אחת לכל שולח באמצעות ההודעות הבאות:
+Detected text: השב אוטומטית פעם אחת לכל שולח באמצעות ההודעות הבאות: (from 116.6s to 120.7s)
+Translated text: השב אוטומטית פעם אחת לכל שולח באמצעות ההודעות הבאות:
+Detected text: סשלח תשובות אוטומטיות (from 62.6s to 92.6s)
+Translated text: סשלח תשובות אוטומטיות
+Detected text: סשלח תשובות אוטומטיות (from 97.3s to 159.4s)
+Translated text: סשלח תשובות אוטומטיות
+Detected text: קבל את אפליק סאנשי הקשר שלי בלבד סכל אדם מחוץ לארגון שלי (from 127.1s to 127.1s)
+Translated text: קבל את אפליק סאנשי הקשר שלי בלבד סכל אדם מחוץ לארגון שלי
+Detected text: השב אוטומטית לאנשים מחוץ לארגון שלי (from 127.3s to 127.3s)
+Translated text: השב אוטומטית לאנשים מחוץ לארגון שלי
+Detected text: השב אוטומטית לאנשים מחוץ לארגון שלי (from 127.5s to 128.8s)
+Translated text: השב אוטומטית לאנשים מחוץ לארגון שלי
+Detected text: השב אוטומטית לאנשים מחוץ לארגון שלי (from 130.2s to 135.9s)
+Translated text: השב אוטומטית לאנשים מחוץ לארגון שלי
+Detected text: השב אוטומטית לאנשים מחוץ לארגון שלי (from 136.0s to 136.0s)
+Translated text: השב אוטומטית לאנשים מחוץ לארגון שלי
+Detected text: השב אוטומטית לאנשים מחוץ לארגון שלי (from 136.4s to 145.1s)
+Translated text: השב אוטומטית לאנשים מחוץ לארגון שלי
+Detected text: השב אוטומטית לאנשים מחוץ לארגון שלי (from 157.1s to 159.4s)
+Translated text: השב אוטומטית לאנשים מחוץ לארגון שלי
+Detected text: PRESS STY (from 32.8s to 32.8s)
+Translated text: לחץ על STY
+Detected text: PRESS STY (from 163.9s to 163.9s)
+Translated text: לחץ על STY
+Detected text: PRESS STY (from 173.5s to 173.5s)
+Translated text: לחץ על STY
+Detected text: סרטון נוסף! (from 182.4s to 198.0s)
+Translated text: סרטון נוסף!
+Detected text: השתמש בתשובות אוטומטיות כדי ליידע אנשים אחרים שאתה נמצא מחוץ למשרד, שאתה בחופשה או (from 42.8s to 52.5s)
+Translated text: השתמש בתשובות אוטומטיות כדי ליידע אנשים אחרים שאתה נמצא מחוץ למשרד, שאתה בחופשה או
+Detected text: פריטים שנמחקו (from 40.4s to 42.2s)
+Translated text: פריטים שנמחקו
+Detected text: EL (from 0.0s to 5.9s)
+Translated text: הוּא
+Detected text: EL (from 1.3s to 1.4s)
+Translated text: הוּא
+Detected text: EL (from 1.8s to 2.0s)
+Translated text: הוּא
+Detected text: EL (from 14.1s to 16.4s)
+Translated text: הוּא
+Detected text: EL (from 14.3s to 15.0s)
+Translated text: הוּא
+Detected text: EL (from 15.7s to 17.0s)
+Translated text: הוּא
+Detected text: EL (from 17.1s to 18.3s)
+Translated text: הוּא
+Detected text: EL (from 17.8s to 18.1s)
+Translated text: הוּא
+Detected text: EL (from 18.6s to 18.6s)
+Translated text: הוּא
+Detected text: EL (from 19.9s to 24.2s)
+Translated text: הוּא
+Detected text: EL (from 21.1s to 21.6s)
+Translated text: הוּא
+Detected text: EL (from 23.3s to 23.7s)
+Translated text: הוּא
+Detected text: EL (from 25.4s to 27.3s)
+Translated text: הוּא
+Detected text: EL (from 26.9s to 27.0s)
+Translated text: הוּא
+Detected text: EL (from 27.6s to 28.8s)
+Translated text: הוּא
+Detected text: EL (from 27.7s to 28.3s)
+Translated text: הוּא
+Detected text: EL (from 30.5s to 30.7s)
+Translated text: הוּא
+Detected text: EL (from 31.8s to 37.1s)
+Translated text: הוּא
+Detected text: EL (from 32.4s to 32.7s)
+Translated text: הוּא
+Detected text: EL (from 37.2s to 38.4s)
+Translated text: הוּא
+Detected text: EL (from 38.0s to 40.1s)
+Translated text: הוּא
+Detected text: EL (from 159.8s to 160.9s)
+Translated text: הוּא
+Detected text: EL (from 161.0s to 161.5s)
+Translated text: הוּא
+Detected text: EL (from 162.6s to 165.2s)
+Translated text: הוּא
+Detected text: EL (from 163.7s to 163.9s)
+Translated text: הוּא
+Detected text: EL (from 165.7s to 167.5s)
+Translated text: הוּא
+Detected text: EL (from 166.6s to 167.1s)
+Translated text: הוּא
+Detected text: EL (from 169.0s to 170.9s)
+Translated text: הוּא
+Detected text: EL (from 171.1s to 172.3s)
+Translated text: הוּא
+Detected text: EL (from 172.9s to 177.9s)
+Translated text: הוּא
+Detected text: מה בתוך הארגון שלי מחוץ לארגון שלי (מופעל) (from 120.8s to 128.7s)
+Translated text: מה בתוך הארגון שלי מחוץ לארגון שלי (מופעל)
+Detected text: מה בתוך הארגון שלי מחוץ לארגון שלי (מופעל) (from 131.8s to 136.7s)
+Translated text: מה בתוך הארגון שלי מחוץ לארגון שלי (מופעל)
+Detected text: אוטומטיות (from 42.8s to 52.5s)
+Translated text: אוטומטיות
+Detected text: 3= = = = A UI B (from 53.4s to 55.7s)
+Translated text: 3= = = = ממשק משתמש B
+Detected text: השב אוטיזטית לאנשים מחוץ לארגון שלי (from 129.1s to 129.1s)
+Translated text: השב אוטיזטית לאנשים מחוץ לארגון שלי
+Detected text: wwW..Y 4PC.CO.IL (from 10.9s to 10.9s)
+Translated text: www..Y 4PC.CO.IL
+Detected text: 00 (from 15.6s to 18.6s)
+Translated text: 00
+Detected text: 00 (from 24.9s to 25.2s)
+Translated text: 00
+Detected text: T.www.Y4PC.Co.IL (from 10.8s to 10.8s)
+Translated text: T.www.Y4PC.Co.IL
+Detected text: השב אוטומוזית לאנשים מחוץ לארגון שלי (from 129.2s to 129.2s)
+Translated text: השב אוטומוזית לאנשים מחוץ לארגון שלי
+Detected text: Office (from 42.8s to 52.5s)
+Translated text: מִשׂרָד
+Detected text: תצוגה עזרה ? ספר לי (from 41.0s to 41.9s)
+Translated text: תצוגה עזרה ? ספר לי
+Detected text: XX/XX (from 62.6s to 105.4s)
+Translated text: XX/XX
+Detected text: קובץ (from 40.4s to 41.4s)
+Translated text: קובץ
+Detected text: השבטומטית לאנשים מחוץ לארגון שלי (from 136.2s to 136.2s)
+Translated text: השבטומטית לאנשים מחוץ לארגון שלי
+Detected text: ..limited access to my email (from 52.6s to 62.5s)
+Translated text: ..גישה מוגבלת למייל שלי
+Detected text: ..limited access to my email (from 105.5s to 159.4s)
+Translated text: ..גישה מוגבלת למייל שלי
+Detected text: Outlook - Yossi_Dermn@asus.com (from 45.6s to 52.5s)
+Translated text: אאוטלוק - Yossi_Dermn@asus.com
+Detected text: הגדרות עבור ח' ת (from 121.6s to 126.8s)
+Translated text: הגדרות עבור ח' ת
+Detected text: הגדרות עבור ח' ת (from 135.3s to 135.6s)
+Translated text: הגדרות עבור ח' ת
+Detected text: הגדרות עבור ח' ת (from 147.0s to 151.9s)
+Translated text: הגדרות עבור ח' ת
+Detected text: קבל את אפליק A U IB === (from 61.5s to 61.6s)
+Translated text: קבל את אפליק A U IB ===
+Detected text: PRESS STU (from 163.8s to 163.8s)
+Translated text: לחץ על STU
+Detected text: wWw.Y4PC.CO.IL (from 11.9s to 11.9s)
+Translated text: wWW.Y4PC.CO.IL
+Detected text: נשלח בטווח זמן זה בלבד: (from 52.6s to 53.4s)
+Translated text: נשלח בטווח זמן זה בלבד:
+Detected text: מי בתוך הארגון שלי (from 111.5s to 116.5s)
+Translated text: מי בתוך הארגון שלי
+Detected text: מי בתוך הארגון שלי (from 126.7s to 126.8s)
+Translated text: מי בתוך הארגון שלי
+Detected text: מי בתוך הארגון שלי (from 127.8s to 128.8s)
+Translated text: מי בתוך הארגון שלי
+Detected text: מי בתוך הארגון שלי (from 131.2s to 131.7s)
+Translated text: מי בתוך הארגון שלי
+Detected text: 10:00 (from 52.6s to 159.4s)
+Translated text: 10:00
+Detected text: 10:00 (from 52.6s to 159.4s)
+Translated text: 10:00
+Detected text: בזמין להשיב ל (from 55.8s to 61.4s)
+Translated text: בזמין להשיב ל
+Detected text: בזמין להשיב ל (from 61.5s to 62.5s)
+Translated text: בזמין להשיב ל
+Detected text: משוב (from 42.8s to 52.5s)
+Translated text: משוב
+Detected text: סרטון נוסף ! (from 178.0s to 182.3s)
+Translated text: סרטון נוסף !
+Detected text: קבל את אפליק A (from 81.1s to 86.1s)
+Translated text: קבל את אפליק A
+Detected text: קבל את אפליק A (from 91.2s to 96.2s)
+Translated text: קבל את אפליק A
+Detected text: גש לחשבון זה ב (from 52.6s to 159.4s)
+Translated text: גש לחשבון זה ב
+Detected text: גש לחשבון זה באינטרנט. (from 42.4s to 42.7s)
+Translated text: גש לחשבון זה באינטרנט.
+Detected text: Outlook - Yossi_Demn@asus.com (from 42.8s to 45.5s)
+Translated text: אאוטלוק - Yossi_Demn@asus.com
+Detected text: שעת שיום: (from 100.4s to 100.7s)
+Translated text: שעת שיום:
+Detected text: ה (from 111.5s to 116.5s)
+Translated text: ה
+Detected text: ה (from 126.7s to 126.8s)
+Translated text: ה
+Detected text: ה (from 128.3s to 128.8s)
+Translated text: ה
+Detected text: ה (from 131.2s to 131.7s)
+Translated text: ה
+Detected text: ה (from 136.8s to 141.8s)
+Translated text: ה
+Detected text: 8 בתוך הארגון שלי (from 100.2s to 100.4s)
+Translated text: 8 בתוך הארגון שלי
+Detected text: 8 בתוך הארגון שלי (from 103.0s to 104.7s)
+Translated text: 8 בתוך הארגון שלי
