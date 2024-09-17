@@ -11,9 +11,9 @@ os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'kaleidoo-435715-96fdd3ef71f6.jso
 # ***Enter src audio filepaths here***
 src_path = "TestingSamples/audio_sample_1.mp3" 
 gcs_uri = f'gs://kaleidoo_bucket/audio_sample_2.mp3'   # For files longer that 1 min     
+dst_path = f"TestingOutputs/gogole_speech_{Path(choice).name}_transcript.txt"
 choice = gcs_uri                 
 
-dst_path = f"TestingOutputs/gogole_speech_{Path(choice).name}_transcript.txt"
 log_path = "TestingLogs/google_speech_testing_results.txt"
 
 def transcribe_audio(audio_path):
