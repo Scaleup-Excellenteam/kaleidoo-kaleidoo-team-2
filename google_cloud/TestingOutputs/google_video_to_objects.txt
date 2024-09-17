@@ -1,0 +1,718 @@
+Detected object: cat (from 0.0s to 3.2s, confidence: 0.8528473973274231)
+Translated text: חָתוּל
+Detected object: dog (from 0.0s to 1.6s, confidence: 0.735107958316803)
+Translated text: כֶּלֶב
+Detected object: mouse (from 0.9s to 2.1s, confidence: 0.5991301536560059)
+Translated text: עַכְבָּר
+Detected object: dog (from 1.3s to 3.8s, confidence: 0.6973498463630676)
+Translated text: כֶּלֶב
+Detected object: shoe (from 3.4s to 3.7s, confidence: 0.5302704572677612)
+Translated text: נַעַל
+Detected object: sunglasses (from 3.6s to 3.6s, confidence: 0.6832783818244934)
+Translated text: מִשְׁקפֵי שֶׁמֶשׁ
+Detected object: shoe (from 4.1s to 4.2s, confidence: 0.7420737743377686)
+Translated text: נַעַל
+Detected object: top (from 4.4s to 6.0s, confidence: 0.5669806599617004)
+Translated text: רֹאשׁ
+Detected object: animal (from 5.6s to 6.0s, confidence: 0.7249440550804138)
+Translated text: חַיָה
+Detected object: cat (from 6.1s to 8.3s, confidence: 0.854455828666687)
+Translated text: חָתוּל
+Detected object: dog (from 6.1s to 12.9s, confidence: 0.7776948809623718)
+Translated text: כֶּלֶב
+Detected object: dog (from 6.1s to 7.0s, confidence: 0.753810465335846)
+Translated text: כֶּלֶב
+Detected object: shoe (from 6.9s to 6.9s, confidence: 0.5160681009292603)
+Translated text: נַעַל
+Detected object: person (from 7.6s to 7.9s, confidence: 0.7607039213180542)
+Translated text: אָדָם
+Detected object: packaged goods (from 7.8s to 9.8s, confidence: 0.6232653856277466)
+Translated text: סחורה ארוזה
+Detected object: box (from 8.1s to 8.3s, confidence: 0.6340911984443665)
+Translated text: קוּפסָה
+Detected object: sunglasses (from 8.4s to 9.2s, confidence: 0.6289539337158203)
+Translated text: מִשְׁקפֵי שֶׁמֶשׁ
+Detected object: shoe (from 9.0s to 9.2s, confidence: 0.6788097620010376)
+Translated text: נַעַל
+Detected object: shoe (from 9.0s to 9.8s, confidence: 0.6556146740913391)
+Translated text: נַעַל
+Detected object: shoe (from 9.2s to 9.5s, confidence: 0.6489077806472778)
+Translated text: נַעַל
+Detected object: shoe (from 9.3s to 9.3s, confidence: 0.5396280884742737)
+Translated text: נַעַל
+Detected object: box (from 9.6s to 14.3s, confidence: 0.7753773927688599)
+Translated text: קוּפסָה
+Detected object: sunglasses (from 9.8s to 9.9s, confidence: 0.6432665586471558)
+Translated text: מִשְׁקפֵי שֶׁמֶשׁ
+Detected object: baby (from 10.3s to 14.1s, confidence: 0.8112463355064392)
+Translated text: תִינוֹק
+Detected object: cat (from 10.4s to 12.1s, confidence: 0.8114438056945801)
+Translated text: חָתוּל
+Detected object: animal (from 10.6s to 13.3s, confidence: 0.7944740056991577)
+Translated text: חַיָה
+Detected object: food (from 12.0s to 12.2s, confidence: 0.5528773069381714)
+Translated text: מָזוֹן
+Detected object: box (from 12.0s to 12.0s, confidence: 0.5712153911590576)
+Translated text: קוּפסָה
+Detected object: packaged goods (from 12.2s to 12.3s, confidence: 0.7187315225601196)
+Translated text: סחורה ארוזה
+Detected object: person (from 12.5s to 13.1s, confidence: 0.840459942817688)
+Translated text: אָדָם
+Detected object: animal (from 13.6s to 14.7s, confidence: 0.7058385610580444)
+Translated text: חַיָה
+Detected object: person (from 14.0s to 15.4s, confidence: 0.8561058640480042)
+Translated text: אָדָם
+Detected object: person (from 14.0s to 14.3s, confidence: 0.7866703867912292)
+Translated text: אָדָם
+Detected object: hamster (from 14.2s to 15.1s, confidence: 0.7650876045227051)
+Translated text: אוֹגֵר
+Detected object: packaged goods (from 14.8s to 15.4s, confidence: 0.7266969680786133)
+Translated text: סחורה ארוזה
+Detected object: shelf (from 15.5s to 17.9s, confidence: 0.6529454588890076)
+Translated text: מַדָף
+Detected object: person (from 15.6s to 15.9s, confidence: 0.7610477805137634)
+Translated text: אָדָם
+Detected object: cat (from 15.6s to 17.9s, confidence: 0.6085233092308044)
+Translated text: חָתוּל
+Detected object: toy (from 15.7s to 17.9s, confidence: 0.5295617580413818)
+Translated text: צַעֲצוּעַ
+Detected object: shelf (from 18.0s to 19.8s, confidence: 0.69512939453125)
+Translated text: מַדָף
+Detected object: animal (from 18.1s to 18.3s, confidence: 0.7433465123176575)
+Translated text: חַיָה
+Detected object: cat (from 18.1s to 19.6s, confidence: 0.7545060515403748)
+Translated text: חָתוּל
+Detected object: toy (from 18.2s to 19.5s, confidence: 0.5365860462188721)
+Translated text: צַעֲצוּעַ
+Detected object: furniture (from 18.7s to 18.7s, confidence: 0.5124227404594421)
+Translated text: רְהִיטִים
+Detected object: person (from 19.1s to 19.9s, confidence: 0.8919133543968201)
+Translated text: אָדָם
+Detected object: furniture (from 19.3s to 19.3s, confidence: 0.5593839287757874)
+Translated text: רְהִיטִים
+Detected object: animal (from 19.6s to 20.1s, confidence: 0.6958495378494263)
+Translated text: חַיָה
+Detected object: shelf (from 19.8s to 22.1s, confidence: 0.6843827366828918)
+Translated text: מַדָף
+Detected object: animal (from 20.2s to 20.4s, confidence: 0.7746719121932983)
+Translated text: חַיָה
+Detected object: toy (from 20.5s to 20.5s, confidence: 0.5127670168876648)
+Translated text: צַעֲצוּעַ
+Detected object: furniture (from 20.6s to 20.8s, confidence: 0.6055014133453369)
+Translated text: רְהִיטִים
+Detected object: furniture (from 21.4s to 21.4s, confidence: 0.5281039476394653)
+Translated text: רְהִיטִים
+Detected object: person (from 21.6s to 21.6s, confidence: 0.8224933743476868)
+Translated text: אָדָם
+Detected object: animal (from 21.7s to 22.0s, confidence: 0.7426542043685913)
+Translated text: חַיָה
+Detected object: cat (from 22.2s to 26.5s, confidence: 0.8722850680351257)
+Translated text: חָתוּל
+Detected object: shelf (from 22.2s to 22.3s, confidence: 0.6582334041595459)
+Translated text: מַדָף
+Detected object: table top (from 22.4s to 22.6s, confidence: 0.5966082215309143)
+Translated text: פלטת שולחן
+Detected object: tableware (from 22.9s to 25.9s, confidence: 0.6397745013237)
+Translated text: כלי שולחן
+Detected object: table top (from 24.4s to 26.1s, confidence: 0.6642993092536926)
+Translated text: פלטת שולחן
+Detected object: cat (from 24.8s to 26.5s, confidence: 0.7939125895500183)
+Translated text: חָתוּל
+Detected object: animal (from 24.8s to 25.1s, confidence: 0.6898297667503357)
+Translated text: חַיָה
+Detected object: shoe (from 25.4s to 25.4s, confidence: 0.5513880848884583)
+Translated text: נַעַל
+Detected object: animal (from 26.6s to 26.7s, confidence: 0.7323909997940063)
+Translated text: חַיָה
+Detected object: tableware (from 26.9s to 27.0s, confidence: 0.6515241861343384)
+Translated text: כלי שולחן
+Detected object: remote control (from 27.1s to 27.1s, confidence: 0.5767147541046143)
+Translated text: שְׁלַט רָחוֹק
+Detected object: pillow (from 27.3s to 27.3s, confidence: 0.6477858424186707)
+Translated text: כָּרִית
+Detected object: top (from 27.4s to 28.8s, confidence: 0.5624907612800598)
+Translated text: רֹאשׁ
+Detected object: home appliance (from 27.6s to 27.6s, confidence: 0.5552805662155151)
+Translated text: מכשיר ביתי
+Detected object: glove (from 27.6s to 27.6s, confidence: 0.5463806390762329)
+Translated text: כְּפָפָה
+Detected object: luggage & bags (from 27.9s to 27.9s, confidence: 0.6919721961021423)
+Translated text: מזוודות ותיקים
+Detected object: shoe (from 28.6s to 28.6s, confidence: 0.7179497480392456)
+Translated text: נַעַל
+Detected object: table top (from 28.6s to 28.6s, confidence: 0.5617731809616089)
+Translated text: פלטת שולחן
+Detected object: person (from 28.8s to 28.8s, confidence: 0.8616508841514587)
+Translated text: אָדָם
+Detected object: mobile phone (from 28.8s to 28.8s, confidence: 0.5622220039367676)
+Translated text: טֶלֶפוֹן סֶלוּלָרי
+Detected object: dog (from 28.9s to 31.8s, confidence: 0.9218456149101257)
+Translated text: כֶּלֶב
+Detected object: bowl (from 28.9s to 32.1s, confidence: 0.8322234153747559)
+Translated text: קְעָרָה
+Detected object: table (from 28.9s to 30.5s, confidence: 0.5970646739006042)
+Translated text: לוּחַ
+Detected object: person (from 30.0s to 31.1s, confidence: 0.7745580673217773)
+Translated text: אָדָם
+Detected object: food (from 31.2s to 31.4s, confidence: 0.5394467711448669)
+Translated text: מָזוֹן
+Detected object: furniture (from 31.8s to 31.8s, confidence: 0.6819330453872681)
+Translated text: רְהִיטִים
+Detected object: ball (from 31.8s to 31.8s, confidence: 0.5890166759490967)
+Translated text: כַּדוּר
+Detected object: packaged goods (from 31.9s to 31.9s, confidence: 0.5276054739952087)
+Translated text: סחורה ארוזה
+Detected object: container (from 32.0s to 32.0s, confidence: 0.5217052102088928)
+Translated text: מְכוֹלָה
+Detected object: animal (from 32.1s to 32.4s, confidence: 0.7548351287841797)
+Translated text: חַיָה
+Detected object: ball (from 32.3s to 32.3s, confidence: 0.556037187576294)
+Translated text: כַּדוּר
+Detected object: dog (from 32.4s to 34.4s, confidence: 0.8136547803878784)
+Translated text: כֶּלֶב
+Detected object: dog (from 32.5s to 34.2s, confidence: 0.8229188323020935)
+Translated text: כֶּלֶב
+Detected object: plant (from 32.7s to 32.8s, confidence: 0.6997487545013428)
+Translated text: לִשְׁתוֹל
+Detected object: bowl (from 33.0s to 34.0s, confidence: 0.8177229762077332)
+Translated text: קְעָרָה
+Detected object: tire (from 34.4s to 34.4s, confidence: 0.5635820031166077)
+Translated text: צְמִיג
+Detected object: nightstand (from 34.5s to 41.6s, confidence: 0.610463559627533)
+Translated text: שידת לילה
+Detected object: shoe (from 34.6s to 34.6s, confidence: 0.5666685700416565)
+Translated text: נַעַל
+Detected object: cat (from 35.3s to 41.6s, confidence: 0.837104856967926)
+Translated text: חָתוּל
+Detected object: cat (from 36.2s to 37.5s, confidence: 0.8095089197158813)
+Translated text: חָתוּל
+Detected object: cat (from 36.2s to 37.6s, confidence: 0.6687825322151184)
+Translated text: חָתוּל
+Detected object: home appliance (from 38.6s to 41.5s, confidence: 0.5376156568527222)
+Translated text: מכשיר ביתי
+Detected object: cat (from 38.9s to 40.2s, confidence: 0.8194187879562378)
+Translated text: חָתוּל
+Detected object: animal (from 40.5s to 40.6s, confidence: 0.7350361347198486)
+Translated text: חַיָה
+Detected object: cat (from 41.7s to 48.8s, confidence: 0.911783754825592)
+Translated text: חָתוּל
+Detected object: mobile phone (from 41.7s to 42.3s, confidence: 0.5573334097862244)
+Translated text: טֶלֶפוֹן סֶלוּלָרי
+Detected object: mobile phone (from 44.9s to 48.1s, confidence: 0.6987113952636719)
+Translated text: טֶלֶפוֹן סֶלוּלָרי
+Detected object: cat (from 45.7s to 45.7s, confidence: 0.8585442304611206)
+Translated text: חָתוּל
+Detected object: cat (from 47.3s to 50.7s, confidence: 0.8182305693626404)
+Translated text: חָתוּל
+Detected object: cat (from 50.8s to 60.6s, confidence: 0.9374937415122986)
+Translated text: חָתוּל
+Detected object: person (from 50.8s to 57.9s, confidence: 0.893791913986206)
+Translated text: אָדָם
+Detected object: person (from 52.8s to 53.1s, confidence: 0.834334135055542)
+Translated text: אָדָם
+Detected object: electronic device (from 53.0s to 53.0s, confidence: 0.52102130651474)
+Translated text: מכשיר אלקטרוני
+Detected object: tableware (from 55.9s to 55.9s, confidence: 0.5352984666824341)
+Translated text: כלי שולחן
+Detected object: person (from 56.0s to 56.3s, confidence: 0.9335148334503174)
+Translated text: אָדָם
+Detected object: animal (from 61.1s to 61.5s, confidence: 0.8047589063644409)
+Translated text: חַיָה
+Detected object: animal (from 61.6s to 62.8s, confidence: 0.8163132071495056)
+Translated text: חַיָה
+Detected object: person (from 61.6s to 61.9s, confidence: 0.8584477305412292)
+Translated text: אָדָם
+Detected object: cat (from 62.7s to 67.9s, confidence: 0.8655117750167847)
+Translated text: חָתוּל
+Detected object: cat (from 65.5s to 67.7s, confidence: 0.8874375224113464)
+Translated text: חָתוּל
+Detected object: person (from 66.8s to 67.1s, confidence: 0.8009416460990906)
+Translated text: אָדָם
+Detected object: person (from 68.0s to 68.3s, confidence: 0.9265026450157166)
+Translated text: אָדָם
+Detected object: cat (from 68.0s to 70.9s, confidence: 0.6699553728103638)
+Translated text: חָתוּל
+Detected object: cat (from 68.0s to 75.8s, confidence: 0.7303812503814697)
+Translated text: חָתוּל
+Detected object: blanket (from 68.0s to 73.9s, confidence: 0.5980523824691772)
+Translated text: שְׂמִיכָה
+Detected object: clothing (from 68.1s to 68.5s, confidence: 0.5289710760116577)
+Translated text: הַלבָּשָׁה
+Detected object: cat (from 68.1s to 75.9s, confidence: 0.6949251294136047)
+Translated text: חָתוּל
+Detected object: table (from 68.4s to 70.4s, confidence: 0.531315267086029)
+Translated text: לוּחַ
+Detected object: animal (from 69.1s to 72.3s, confidence: 0.6916438937187195)
+Translated text: חַיָה
+Detected object: person (from 70.0s to 70.3s, confidence: 0.7563865184783936)
+Translated text: אָדָם
+Detected object: clothing (from 72.6s to 72.8s, confidence: 0.5207765102386475)
+Translated text: הַלבָּשָׁה
+Detected object: person (from 73.2s to 73.5s, confidence: 0.785195529460907)
+Translated text: אָדָם
+Detected object: animal (from 74.7s to 75.9s, confidence: 0.7069710493087769)
+Translated text: חַיָה
+Detected object: cat (from 75.1s to 75.3s, confidence: 0.7898706793785095)
+Translated text: חָתוּל
+Detected object: table (from 75.2s to 75.9s, confidence: 0.5778510570526123)
+Translated text: לוּחַ
+Detected object: animal (from 75.3s to 75.6s, confidence: 0.7192040681838989)
+Translated text: חַיָה
+Detected object: hat (from 75.8s to 80.2s, confidence: 0.767134964466095)
+Translated text: יש
+Detected object: animal (from 75.9s to 76.0s, confidence: 0.709578275680542)
+Translated text: חַיָה
+Detected object: cat (from 75.9s to 76.0s, confidence: 0.6805353760719299)
+Translated text: חָתוּל
+Detected object: table (from 75.9s to 80.2s, confidence: 0.7157275676727295)
+Translated text: לוּחַ
+Detected object: person (from 76.0s to 76.3s, confidence: 0.9007478356361389)
+Translated text: אָדָם
+Detected object: top (from 76.0s to 80.2s, confidence: 0.6261129379272461)
+Translated text: רֹאשׁ
+Detected object: houseplant (from 76.4s to 76.4s, confidence: 0.5437384247779846)
+Translated text: צמח בית
+Detected object: plant (from 76.5s to 76.6s, confidence: 0.5662490129470825)
+Translated text: לִשְׁתוֹל
+Detected object: animal (from 77.0s to 77.4s, confidence: 0.6933488249778748)
+Translated text: חַיָה
+Detected object: animal (from 77.0s to 77.0s, confidence: 0.6773064136505127)
+Translated text: חַיָה
+Detected object: cat (from 77.0s to 77.5s, confidence: 0.6915778517723083)
+Translated text: חָתוּל
+Detected object: cat (from 77.0s to 77.8s, confidence: 0.606193482875824)
+Translated text: חָתוּל
+Detected object: person (from 77.2s to 80.2s, confidence: 0.8174652457237244)
+Translated text: אָדָם
+Detected object: animal (from 77.8s to 78.3s, confidence: 0.718535304069519)
+Translated text: חַיָה
+Detected object: plant (from 78.8s to 80.1s, confidence: 0.5648661255836487)
+Translated text: לִשְׁתוֹל
+Detected object: cat (from 80.5s to 85.9s, confidence: 0.7302202582359314)
+Translated text: חָתוּל
+Detected object: shoe (from 80.5s to 81.3s, confidence: 0.6107122898101807)
+Translated text: נַעַל
+Detected object: shoe (from 81.3s to 82.9s, confidence: 0.5842328071594238)
+Translated text: נַעַל
+Detected object: shoe (from 81.4s to 81.5s, confidence: 0.703336238861084)
+Translated text: נַעַל
+Detected object: shoe (from 82.9s to 83.0s, confidence: 0.6004396677017212)
+Translated text: נַעַל
+Detected object: cat (from 86.8s to 88.5s, confidence: 0.6459187865257263)
+Translated text: חָתוּל
+Detected object: cat (from 88.6s to 90.2s, confidence: 0.8090400695800781)
+Translated text: חָתוּל
+Detected object: hair dryer (from 88.6s to 88.6s, confidence: 0.5651983022689819)
+Translated text: מייבש שיער
+Detected object: table (from 88.6s to 89.9s, confidence: 0.5703977942466736)
+Translated text: לוּחַ
+Detected object: dog (from 89.0s to 90.2s, confidence: 0.7292259335517883)
+Translated text: כֶּלֶב
+Detected object: shoe (from 89.4s to 89.4s, confidence: 0.630126416683197)
+Translated text: נַעַל
+Detected object: crutch (from 89.9s to 89.9s, confidence: 0.6348899602890015)
+Translated text: קַב
+Detected object: animal (from 90.3s to 90.3s, confidence: 0.8093555569648743)
+Translated text: חַיָה
+Detected object: cat (from 90.3s to 97.0s, confidence: 0.7929072380065918)
+Translated text: חָתוּל
+Detected object: infant bed (from 90.3s to 90.5s, confidence: 0.5949709415435791)
+Translated text: מיטת תינוק
+Detected object: person (from 90.8s to 91.1s, confidence: 0.7686079144477844)
+Translated text: אָדָם
+Detected object: animal (from 91.1s to 92.9s, confidence: 0.6893107295036316)
+Translated text: חַיָה
+Detected object: shoe (from 91.3s to 92.0s, confidence: 0.6401048898696899)
+Translated text: נַעַל
+Detected object: animal (from 92.3s to 92.3s, confidence: 0.6603677272796631)
+Translated text: חַיָה
+Detected object: dog (from 92.6s to 97.0s, confidence: 0.7510784268379211)
+Translated text: כֶּלֶב
+Detected object: toothbrush (from 93.1s to 93.1s, confidence: 0.5344849824905396)
+Translated text: מִברֶשֶׁת שִׁנַיִם
+Detected object: animal (from 93.8s to 95.2s, confidence: 0.73008793592453)
+Translated text: חַיָה
+Detected object: toy (from 94.3s to 94.3s, confidence: 0.5412201881408691)
+Translated text: צַעֲצוּעַ
+Detected object: cat (from 94.9s to 95.5s, confidence: 0.7692084312438965)
+Translated text: חָתוּל
+Detected object: toothbrush (from 94.9s to 96.7s, confidence: 0.6550408601760864)
+Translated text: מִברֶשֶׁת שִׁנַיִם
+Detected object: animal (from 95.8s to 95.9s, confidence: 0.6679607629776001)
+Translated text: חַיָה
+Detected object: cat (from 96.1s to 97.0s, confidence: 0.7633309364318848)
+Translated text: חָתוּל
+Detected object: cat (from 97.1s to 102.2s, confidence: 0.6794343590736389)
+Translated text: חָתוּל
+Detected object: toilet (from 97.1s to 102.4s, confidence: 0.6996317505836487)
+Translated text: שֵׁרוּתִים
+Detected object: shoe (from 97.7s to 98.3s, confidence: 0.5283870697021484)
+Translated text: נַעַל
+Detected object: dog (from 102.5s to 106.8s, confidence: 0.8980613946914673)
+Translated text: כֶּלֶב
+Detected object: animal (from 102.5s to 106.6s, confidence: 0.7923660278320312)
+Translated text: חַיָה
+Detected object: animal (from 102.6s to 103.8s, confidence: 0.5827639698982239)
+Translated text: חַיָה
+Detected object: bird (from 103.6s to 106.4s, confidence: 0.7392398118972778)
+Translated text: צִפּוֹר
+Detected object: bird (from 106.5s to 106.8s, confidence: 0.7541800141334534)
+Translated text: צִפּוֹר
+Detected object: bird (from 106.6s to 106.8s, confidence: 0.7215315699577332)
+Translated text: צִפּוֹר
+Detected object: dog (from 106.8s to 107.4s, confidence: 0.783376157283783)
+Translated text: כֶּלֶב
+Detected object: weapon (from 107.2s to 107.3s, confidence: 0.6310117244720459)
+Translated text: נֶשֶׁק
+Detected object: footwear (from 107.2s to 107.2s, confidence: 0.6314316391944885)
+Translated text: הַנעָלָה
+Detected object: dog (from 107.4s to 108.3s, confidence: 0.7467154860496521)
+Translated text: כֶּלֶב
+Detected object: ball (from 107.9s to 114.9s, confidence: 0.6371719837188721)
+Translated text: כַּדוּר
+Detected object: packaged goods (from 108.0s to 113.0s, confidence: 0.6874969601631165)
+Translated text: סחורה ארוזה
+Detected object: fruit (from 108.0s to 108.0s, confidence: 0.5450829267501831)
+Translated text: פְּרִי
+Detected object: balloon (from 108.2s to 112.6s, confidence: 0.7016828656196594)
+Translated text: בַּלוֹן
+Detected object: bag (from 108.2s to 111.4s, confidence: 0.6693677306175232)
+Translated text: תִיק
+Detected object: dog (from 108.3s to 113.8s, confidence: 0.7803731560707092)
+Translated text: כֶּלֶב
+Detected object: dog (from 112.3s to 114.9s, confidence: 0.7615712285041809)
+Translated text: כֶּלֶב
+Detected object: luggage & bags (from 113.1s to 114.7s, confidence: 0.6642709970474243)
+Translated text: מזוודות ותיקים
+Detected object: food (from 113.2s to 113.3s, confidence: 0.6219805479049683)
+Translated text: מָזוֹן
+Detected object: balloon (from 113.9s to 114.7s, confidence: 0.7610247135162354)
+Translated text: בַּלוֹן
+Detected object: fruit (from 114.2s to 114.2s, confidence: 0.6144431829452515)
+Translated text: פְּרִי
+Detected object: packaged goods (from 114.3s to 114.9s, confidence: 0.6784563064575195)
+Translated text: סחורה ארוזה
+Detected object: cat (from 115.0s to 120.6s, confidence: 0.8192270398139954)
+Translated text: חָתוּל
+Detected object: shoe (from 115.5s to 115.5s, confidence: 0.511451005935669)
+Translated text: נַעַל
+Detected object: cat (from 115.7s to 116.9s, confidence: 0.7449577450752258)
+Translated text: חָתוּל
+Detected object: top (from 115.9s to 116.1s, confidence: 0.5568554401397705)
+Translated text: רֹאשׁ
+Detected object: person (from 119.2s to 119.5s, confidence: 0.8572583794593811)
+Translated text: אָדָם
+Detected object: outerwear (from 119.3s to 119.3s, confidence: 0.7343966364860535)
+Translated text: בגדים עליונים
+Detected object: cat (from 120.4s to 120.7s, confidence: 0.7591107487678528)
+Translated text: חָתוּל
+Detected object: cat (from 120.8s to 125.7s, confidence: 0.7826814651489258)
+Translated text: חָתוּל
+Detected object: cat (from 120.8s to 127.6s, confidence: 0.8876987099647522)
+Translated text: חָתוּל
+Detected object: cat (from 125.6s to 127.6s, confidence: 0.827755868434906)
+Translated text: חָתוּל
+Detected object: cat (from 127.7s to 128.6s, confidence: 0.8164365291595459)
+Translated text: חָתוּל
+Detected object: cat (from 127.7s to 131.6s, confidence: 0.8887358903884888)
+Translated text: חָתוּל
+Detected object: smart speaker (from 127.8s to 128.3s, confidence: 0.5100985765457153)
+Translated text: רמקול חכם
+Detected object: person (from 128.0s to 129.9s, confidence: 0.8407079577445984)
+Translated text: אָדָם
+Detected object: home appliance (from 128.0s to 128.7s, confidence: 0.5494438409805298)
+Translated text: מכשיר ביתי
+Detected object: person (from 129.2s to 129.5s, confidence: 0.767776608467102)
+Translated text: אָדָם
+Detected object: sunglasses (from 129.2s to 129.2s, confidence: 0.6751318573951721)
+Translated text: מִשְׁקפֵי שֶׁמֶשׁ
+Detected object: television (from 129.5s to 130.1s, confidence: 0.6381008625030518)
+Translated text: טֵלֶוִיזִיָה
+Detected object: home appliance (from 130.2s to 131.6s, confidence: 0.6687256693840027)
+Translated text: מכשיר ביתי
+Detected object: cat (from 130.4s to 138.5s, confidence: 0.9067445397377014)
+Translated text: חָתוּל
+Detected object: person (from 132.0s to 132.7s, confidence: 0.9478942155838013)
+Translated text: אָדָם
+Detected object: person (from 132.0s to 132.3s, confidence: 0.8170812726020813)
+Translated text: אָדָם
+Detected object: television (from 132.3s to 132.8s, confidence: 0.6245156526565552)
+Translated text: טֵלֶוִיזִיָה
+Detected object: home appliance (from 132.7s to 138.2s, confidence: 0.6961861848831177)
+Translated text: מכשיר ביתי
+Detected object: cat (from 134.4s to 136.0s, confidence: 0.7781839370727539)
+Translated text: חָתוּל
+Detected object: person (from 135.6s to 138.5s, confidence: 0.925834059715271)
+Translated text: אָדָם
+Detected object: cat (from 138.6s to 140.0s, confidence: 0.9452140927314758)
+Translated text: חָתוּל
+Detected object: animal (from 138.6s to 140.0s, confidence: 0.7302018404006958)
+Translated text: חַיָה
+Detected object: curtain (from 139.4s to 139.6s, confidence: 0.5480847358703613)
+Translated text: וִילוֹן
+Detected object: cat (from 140.1s to 143.2s, confidence: 0.8912492990493774)
+Translated text: חָתוּל
+Detected object: cat (from 140.1s to 143.2s, confidence: 0.905315101146698)
+Translated text: חָתוּל
+Detected object: cat (from 140.1s to 140.8s, confidence: 0.7914479374885559)
+Translated text: חָתוּל
+Detected object: cat (from 143.3s to 144.7s, confidence: 0.9106135964393616)
+Translated text: חָתוּל
+Detected object: cat (from 143.3s to 144.5s, confidence: 0.9102665781974792)
+Translated text: חָתוּל
+Detected object: cat (from 143.8s to 144.6s, confidence: 0.8687586188316345)
+Translated text: חָתוּל
+Detected object: cat (from 144.8s to 146.8s, confidence: 0.842288613319397)
+Translated text: חָתוּל
+Detected object: cat (from 144.8s to 146.5s, confidence: 0.8984304070472717)
+Translated text: חָתוּל
+Detected object: animal (from 146.5s to 146.6s, confidence: 0.7506888508796692)
+Translated text: חַיָה
+Detected object: cat (from 146.9s to 148.0s, confidence: 0.840640127658844)
+Translated text: חָתוּל
+Detected object: cat (from 146.9s to 147.7s, confidence: 0.9178014397621155)
+Translated text: חָתוּל
+Detected object: cat (from 147.9s to 148.1s, confidence: 0.9499363303184509)
+Translated text: חָתוּל
+Detected object: cat (from 148.2s to 149.2s, confidence: 0.7954866290092468)
+Translated text: חָתוּל
+Detected object: wheel (from 148.2s to 149.6s, confidence: 0.6149073243141174)
+Translated text: גַלגַל
+Detected object: car (from 148.4s to 149.5s, confidence: 0.8488812446594238)
+Translated text: מְכוֹנִית
+Detected object: cat (from 148.8s to 152.8s, confidence: 0.8386698961257935)
+Translated text: חָתוּל
+Detected object: mirror (from 149.9s to 150.5s, confidence: 0.5526464581489563)
+Translated text: מַרְאָה
+Detected object: person (from 150.0s to 150.3s, confidence: 0.85666424036026)
+Translated text: אָדָם
+Detected object: wheel (from 150.5s to 151.1s, confidence: 0.5672066807746887)
+Translated text: גַלגַל
+Detected object: mirror (from 151.4s to 152.6s, confidence: 0.727385401725769)
+Translated text: מַרְאָה
+Detected object: cat (from 151.9s to 153.5s, confidence: 0.9074954390525818)
+Translated text: חָתוּל
+Detected object: crab (from 153.6s to 158.3s, confidence: 0.8435916304588318)
+Translated text: סַרְטָן
+Detected object: dog (from 153.6s to 158.8s, confidence: 0.8320125341415405)
+Translated text: כֶּלֶב
+Detected object: dog (from 158.8s to 159.0s, confidence: 0.7520562410354614)
+Translated text: כֶּלֶב
+Detected object: animal (from 158.9s to 159.6s, confidence: 0.786154568195343)
+Translated text: חַיָה
+Detected object: moths and butterflies (from 159.2s to 160.4s, confidence: 0.7667707204818726)
+Translated text: עשים ופרפרים
+Detected object: packaged goods (from 159.5s to 159.5s, confidence: 0.7057946920394897)
+Translated text: סחורה ארוזה
+Detected object: animal (from 160.3s to 160.7s, confidence: 0.7363520860671997)
+Translated text: חַיָה
+Detected object: animal (from 160.7s to 161.4s, confidence: 0.7694084644317627)
+Translated text: חַיָה
+Detected object: turtle (from 161.0s to 162.0s, confidence: 0.7785266041755676)
+Translated text: צָב
+Detected object: turtle (from 161.4s to 161.8s, confidence: 0.7249959111213684)
+Translated text: צָב
+Detected object: mirror (from 162.1s to 174.8s, confidence: 0.9074181318283081)
+Translated text: מַרְאָה
+Detected object: cat (from 162.1s to 174.8s, confidence: 0.8828858137130737)
+Translated text: חָתוּל
+Detected object: cat (from 174.9s to 176.7s, confidence: 0.9210176467895508)
+Translated text: חָתוּל
+Detected object: person (from 175.2s to 175.7s, confidence: 0.8402288556098938)
+Translated text: אָדָם
+Detected object: person (from 175.2s to 175.9s, confidence: 0.7990469336509705)
+Translated text: אָדָם
+Detected object: cat (from 175.9s to 182.4s, confidence: 0.9314680099487305)
+Translated text: חָתוּל
+Detected object: person (from 176.4s to 176.7s, confidence: 0.8774228096008301)
+Translated text: אָדָם
+Detected object: person (from 178.0s to 178.3s, confidence: 0.8140031695365906)
+Translated text: אָדָם
+Detected object: person (from 180.8s to 181.1s, confidence: 0.8919191956520081)
+Translated text: אָדָם
+Detected object: cat (from 182.5s to 183.5s, confidence: 0.8001328706741333)
+Translated text: חָתוּל
+Detected object: packaged goods (from 182.6s to 182.6s, confidence: 0.7942284941673279)
+Translated text: סחורה ארוזה
+Detected object: cat (from 182.7s to 186.0s, confidence: 0.9177541732788086)
+Translated text: חָתוּל
+Detected object: person (from 182.8s to 183.5s, confidence: 0.8186211585998535)
+Translated text: אָדָם
+Detected object: bagged packaged goods (from 184.6s to 187.7s, confidence: 0.5955649018287659)
+Translated text: סחורה ארוזה בשקיות
+Detected object: person (from 184.8s to 185.9s, confidence: 0.8578994274139404)
+Translated text: אָדָם
+Detected object: cat (from 185.6s to 187.9s, confidence: 0.866591215133667)
+Translated text: חָתוּל
+Detected object: tie (from 185.6s to 185.6s, confidence: 0.5982720255851746)
+Translated text: עֲנִיבָה
+Detected object: person (from 186.8s to 187.5s, confidence: 0.896934449672699)
+Translated text: אָדָם
+Detected object: bracelet (from 187.0s to 187.0s, confidence: 0.7402516603469849)
+Translated text: צָמִיד
+Detected object: bracelet (from 187.9s to 187.9s, confidence: 0.6340702176094055)
+Translated text: צָמִיד
+Detected object: dog (from 188.0s to 190.8s, confidence: 0.8215840458869934)
+Translated text: כֶּלֶב
+Detected object: person (from 188.0s to 188.3s, confidence: 0.7503505945205688)
+Translated text: אָדָם
+Detected object: cat (from 188.7s to 197.6s, confidence: 0.7800204157829285)
+Translated text: חָתוּל
+Detected object: packaged goods (from 190.3s to 190.5s, confidence: 0.5362707376480103)
+Translated text: סחורה ארוזה
+Detected object: packaged goods (from 191.4s to 191.5s, confidence: 0.546965479850769)
+Translated text: סחורה ארוזה
+Detected object: cat (from 196.9s to 197.2s, confidence: 0.8621826171875)
+Translated text: חָתוּל
+Detected object: dog (from 197.7s to 203.0s, confidence: 0.713344395160675)
+Translated text: כֶּלֶב
+Detected object: picture frame (from 197.9s to 198.3s, confidence: 0.5913438200950623)
+Translated text: מסגרת תמונה
+Detected object: picture frame (from 198.3s to 198.3s, confidence: 0.5123106241226196)
+Translated text: מסגרת תמונה
+Detected object: picture frame (from 199.6s to 200.2s, confidence: 0.5310067534446716)
+Translated text: מסגרת תמונה
+Detected object: picture frame (from 199.7s to 200.2s, confidence: 0.514542281627655)
+Translated text: מסגרת תמונה
+Detected object: bird (from 200.2s to 200.2s, confidence: 0.5354887247085571)
+Translated text: צִפּוֹר
+Detected object: picture frame (from 201.3s to 206.3s, confidence: 0.6561383605003357)
+Translated text: מסגרת תמונה
+Detected object: picture frame (from 201.3s to 202.1s, confidence: 0.5408709645271301)
+Translated text: מסגרת תמונה
+Detected object: animal (from 202.8s to 207.1s, confidence: 0.7563800811767578)
+Translated text: חַיָה
+Detected object: picture frame (from 204.6s to 204.9s, confidence: 0.5632688999176025)
+Translated text: מסגרת תמונה
+Detected object: furniture (from 206.4s to 206.4s, confidence: 0.5224937796592712)
+Translated text: רְהִיטִים
+Detected object: cat (from 206.6s to 209.3s, confidence: 0.8853947520256042)
+Translated text: חָתוּל
+Detected object: picture frame (from 207.4s to 207.7s, confidence: 0.6583143472671509)
+Translated text: מסגרת תמונה
+Detected object: furniture (from 207.8s to 207.8s, confidence: 0.5087893009185791)
+Translated text: רְהִיטִים
+Detected object: luggage & bags (from 209.0s to 209.0s, confidence: 0.6202085018157959)
+Translated text: מזוודות ותיקים
+Detected object: picture frame (from 209.0s to 209.2s, confidence: 0.6231661438941956)
+Translated text: מסגרת תמונה
+Detected object: person (from 209.4s to 210.0s, confidence: 0.853014349937439)
+Translated text: אָדָם
+Detected object: picture frame (from 209.4s to 216.8s, confidence: 0.8050699830055237)
+Translated text: מסגרת תמונה
+Detected object: luggage & bags (from 209.4s to 214.6s, confidence: 0.72158282995224)
+Translated text: מזוודות ותיקים
+Detected object: clock (from 209.6s to 210.0s, confidence: 0.5058397650718689)
+Translated text: שָׁעוֹן
+Detected object: shoe (from 210.2s to 211.1s, confidence: 0.742911696434021)
+Translated text: נַעַל
+Detected object: animal (from 210.2s to 210.7s, confidence: 0.671481192111969)
+Translated text: חַיָה
+Detected object: cat (from 210.2s to 216.8s, confidence: 0.719508707523346)
+Translated text: חָתוּל
+Detected object: shoe (from 211.2s to 211.6s, confidence: 0.7155137062072754)
+Translated text: נַעַל
+Detected object: clock (from 212.3s to 214.0s, confidence: 0.5514695644378662)
+Translated text: שָׁעוֹן
+Detected object: animal (from 212.7s to 212.8s, confidence: 0.6838194727897644)
+Translated text: חַיָה
+Detected object: shoe (from 213.1s to 216.8s, confidence: 0.7687097191810608)
+Translated text: נַעַל
+Detected object: animal (from 214.3s to 215.0s, confidence: 0.6798375248908997)
+Translated text: חַיָה
+Detected object: clock (from 214.6s to 216.8s, confidence: 0.5528525710105896)
+Translated text: שָׁעוֹן
+Detected object: person (from 215.2s to 215.5s, confidence: 0.8258506655693054)
+Translated text: אָדָם
+Detected object: shoe (from 215.6s to 216.1s, confidence: 0.8708301186561584)
+Translated text: נַעַל
+Detected object: bowl (from 216.9s to 223.6s, confidence: 0.8623208999633789)
+Translated text: קְעָרָה
+Detected object: cat (from 216.9s to 219.9s, confidence: 0.8692899346351624)
+Translated text: חָתוּל
+Detected object: furniture (from 216.9s to 223.6s, confidence: 0.6220225095748901)
+Translated text: רְהִיטִים
+Detected object: cat (from 219.3s to 220.2s, confidence: 0.8091706037521362)
+Translated text: חָתוּל
+Detected object: cat (from 220.3s to 223.6s, confidence: 0.8600809574127197)
+Translated text: חָתוּל
+Detected object: cat (from 221.4s to 222.0s, confidence: 0.8883947134017944)
+Translated text: חָתוּל
+Detected object: cat (from 223.7s to 236.0s, confidence: 0.9404604434967041)
+Translated text: חָתוּל
+Detected object: animal (from 223.7s to 223.7s, confidence: 0.6606384515762329)
+Translated text: חַיָה
+Detected object: flower (from 228.6s to 228.6s, confidence: 0.5093496441841125)
+Translated text: פֶּרַח
+Detected object: flower (from 235.1s to 235.2s, confidence: 0.6528096795082092)
+Translated text: פֶּרַח
+Detected object: person (from 235.2s to 235.5s, confidence: 0.7769618034362793)
+Translated text: אָדָם
+Detected object: cat (from 236.1s to 242.3s, confidence: 0.935812771320343)
+Translated text: חָתוּל
+Detected object: cat (from 237.2s to 238.4s, confidence: 0.5881252884864807)
+Translated text: חָתוּל
+Detected object: cat (from 241.3s to 242.2s, confidence: 0.5978947877883911)
+Translated text: חָתוּל
+Detected object: person (from 242.0s to 242.3s, confidence: 0.787175714969635)
+Translated text: אָדָם
+Detected object: cat (from 242.4s to 250.2s, confidence: 0.8719208836555481)
+Translated text: חָתוּל
+Detected object: cat (from 242.4s to 244.2s, confidence: 0.6761416792869568)
+Translated text: חָתוּל
+Detected object: person (from 245.2s to 245.5s, confidence: 0.7627266049385071)
+Translated text: אָדָם
+Detected object: lighting (from 245.5s to 245.5s, confidence: 0.524732768535614)
+Translated text: תְאוּרָה
+Detected object: packaged goods (from 245.8s to 245.8s, confidence: 0.5023124814033508)
+Translated text: סחורה ארוזה
+Detected object: luggage & bags (from 246.0s to 246.1s, confidence: 0.704238772392273)
+Translated text: מזוודות ותיקים
+Detected object: packaged goods (from 247.0s to 247.0s, confidence: 0.5148385763168335)
+Translated text: סחורה ארוזה
+Detected object: person (from 249.6s to 249.9s, confidence: 0.751418948173523)
+Translated text: אָדָם
+Detected object: cat (from 249.6s to 249.7s, confidence: 0.6039513349533081)
+Translated text: חָתוּל
+Detected object: cat (from 250.3s to 257.7s, confidence: 0.8176672458648682)
+Translated text: חָתוּל
+Detected object: person (from 250.4s to 257.7s, confidence: 0.9457168579101562)
+Translated text: אָדָם
+Detected object: packaged goods (from 250.6s to 251.0s, confidence: 0.5756606459617615)
+Translated text: סחורה ארוזה
+Detected object: luggage & bags (from 251.1s to 257.5s, confidence: 0.7039663791656494)
+Translated text: מזוודות ותיקים
+Detected object: packaged goods (from 252.1s to 252.8s, confidence: 0.5070703029632568)
+Translated text: סחורה ארוזה
+Detected object: cat (from 253.3s to 254.1s, confidence: 0.7901516556739807)
+Translated text: חָתוּל
+Detected object: curtain (from 254.9s to 256.5s, confidence: 0.5596386194229126)
+Translated text: וִילוֹן
+Detected object: outerwear (from 255.5s to 255.5s, confidence: 0.5157422423362732)
+Translated text: בגדים עליונים
+Detected object: curtain (from 257.5s to 257.6s, confidence: 0.5541183352470398)
+Translated text: וִילוֹן
+Detected object: cat (from 257.8s to 261.1s, confidence: 0.7796007394790649)
+Translated text: חָתוּל
+Detected object: furniture (from 257.8s to 260.1s, confidence: 0.6164253950119019)
+Translated text: רְהִיטִים
+Detected object: lighting (from 257.9s to 263.9s, confidence: 0.5955109000205994)
+Translated text: תְאוּרָה
+Detected object: cat (from 258.3s to 258.5s, confidence: 0.8022986650466919)
+Translated text: חָתוּל
+Detected object: person (from 258.4s to 262.7s, confidence: 0.9191597104072571)
+Translated text: אָדָם
+Detected object: cat (from 259.1s to 263.1s, confidence: 0.7844672203063965)
+Translated text: חָתוּל
+Detected object: home appliance (from 259.3s to 259.3s, confidence: 0.5135951638221741)
+Translated text: מכשיר ביתי
+Detected object: top (from 259.9s to 260.3s, confidence: 0.5890091061592102)
+Translated text: רֹאשׁ
+Detected object: luggage & bags (from 260.5s to 260.5s, confidence: 0.5970548391342163)
+Translated text: מזוודות ותיקים
+Detected object: sunglasses (from 260.6s to 260.6s, confidence: 0.7583228349685669)
+Translated text: מִשְׁקפֵי שֶׁמֶשׁ
+Detected object: furniture (from 261.9s to 263.9s, confidence: 0.5850182175636292)
+Translated text: רְהִיטִים
+Detected object: cat (from 262.1s to 263.9s, confidence: 0.8418981432914734)
+Translated text: חָתוּל
