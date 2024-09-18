@@ -4,16 +4,15 @@ import io
 import time
 from pathlib import Path
 
-
+# Load JSON key into env var
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'kaleidoo-435715-96fdd3ef71f6.json'
 
 src_path = "audio_sample_1.mp3"
-filename = src_path
-dst_path = f"google_speech_{Path(filename).name}_transcript.txt"
+dst_path = f"{Path(src_path).name}_transcript.txt"
 
 
 def transcribe_audio(audio_path):
-
+    start_time = time.time()
     print("Processing...")
 
     client = speech.SpeechClient()
@@ -24,43 +23,41 @@ def transcribe_audio(audio_path):
 
     config = speech.RecognitionConfig(
         encoding=speech.RecognitionConfig.AudioEncoding.MP3,
-        sample_rate_hertz=16000,
+        sample_rate_hertz=44100,
         language_code='he-IL',
-        enable_word_time_offsets=True
+        enable_word_time_offsets=True,
+        max_alternatives=1
     )
 
     response = client.recognize(config=config, audio=audio)
 
-    chunks = []
-    current_chunk = []
-    chunk_start_time = 0
-    chunk_duration = 10 
-    
-    for result in response.results:
-        for alternative in result.alternatives:
-            for word_info in alternative.words:
-                start_time = word_info.start_time.total_seconds()
-                end_time = word_info.end_time.total_seconds()
-                
-                # Check if we need to start a new chunk
-                if start_time >= chunk_start_time + chunk_duration:
-                    chunks.append((chunk_start_time, chunk_end_time, ' '.join(current_chunk)))
-                    current_chunk = []
-                    chunk_start_time += chunk_duration
-                
-                current_chunk.append(word_info.word)
-                chunk_end_time = end_time
+    current_start = 0
+    duration = 10
+    current_end = duration
+    chunk = []
+    with open(dst_path, 'w', encoding='utf-8') as file:
+        for result in response.results:
+            for alternative in result.alternatives:
+                for word_info in alternative.words:
+                    start_time = word_info.start_time.total_seconds()
+                    word = word_info.word
 
-    # Add the last chunk
-    if current_chunk:
-        chunks.append((chunk_start_time, chunk_end_time, ' '.join(current_chunk)))
+                    if not (start_time >= current_start and start_time < current_end):
+                        file.write(f'{current_start}-{current_end}\n')
+                        file.write(' '.join(chunk))
+                        file.write('\n')
+                        current_start = current_end
+                        current_end += duration
+                        chunk = []
+                    chunk.append(word)
 
-    with open(dst_path, 'w') as output_file:
-        for start, end, transcript in chunks:
-            output_file.write(f"{start}-{end}\n")
-            output_file.write(f"{transcript}\n")
+                if len(chunk) > 0:
+                    file.write(f'{current_end}-EOF\n')
+                    file.write(' '.join(chunk))
+                    file.write('\n')
 
     print("Transcription complete.")
+    end_time = time.time()
 
 
 if __name__ == '__main__':
