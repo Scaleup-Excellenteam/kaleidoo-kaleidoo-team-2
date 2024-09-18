@@ -1,0 +1,2 @@
+Time to process - audio_sample_1.mp3: 13.510521173477173
+Time to process - audio_sample_2.mp3: 43.90241241455078
