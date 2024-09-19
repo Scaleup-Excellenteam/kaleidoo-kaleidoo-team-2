@@ -6,12 +6,16 @@ from pathlib import Path
 import shutil
 
 
-class AudioTranscription():
+class AudioParser():
 
-    def transcript_audio(self, filepath, tmp_dir, dst_dir):        
+    def __init__(self):
+        self.suffix = '_audio_speech_transcript.txt"'
+
+    def transcript_audio(self, filepath, tmp_dir, dst_dir):
         self._split_audio(filepath, tmp_dir)
         self._transcript_all(tmp_dir, dst_dir)
         self._clear_directory(tmp_dir)
+        return f"{dst_dir}/{Path(filepath).name}{self.suffix}"
 
 
 
@@ -21,19 +25,23 @@ class AudioTranscription():
         for root, dirs, files in os.walk(tmp_dir):
             for file in files:
                 if file.endswith(format):
-                    os.path.join(root, file)
-                    self.transcript_audio(os.path.join(root, file), dst_dir, next_file_start_offset)
-                    next_file_start_offset += len(AudioSegment.from_mp3(os.path.join(root, file))) // 1000 
+                    src_path = os.path.join(root, file)
+                    self._transcript_audio_file(src_path, dst_dir, next_file_start_offset)
+                    next_file_start_offset += len(AudioSegment.from_mp3(src_path)) // 1000 
         
 
 
 
-    def _transcript_audio(self, filepath, dst_dir, start_offset = 0):
+    def _transcript_audio_file(self, filepath, dst_dir, offset = 0):
 
         if not os.path.exists(dst_dir):
             os.makedirs(dst_dir)
 
-        dst_path = f"{dst_dir}/{Path(filepath).name}_audio_transcript.txt"
+        dst_path = f"{dst_dir}/{Path(filepath).name}{self.suffix}"
+        delim = '_segment'
+        if delim in dst_path:
+            dst_path = dst_path.split(delim)[0] + self.suffix
+
         chunk_duration = 10
 
         client = speech.SpeechClient()
@@ -56,16 +64,16 @@ class AudioTranscription():
         duration = chunk_duration
         current_end = duration
         chunk = []
-        end_time = 0
-        with open(dst_path, 'w', encoding='utf-8') as file:
+        with open(dst_path, 'a', encoding='utf-8') as file:
             for result in response.results:
                 for alternative in result.alternatives:
                     for word_info in alternative.words:
                         start_time = word_info.start_time.total_seconds()
                         word = word_info.word
+                        end_word_time = word_info.end_time.total_seconds()
 
                         if not (start_time >= current_start and start_time < current_end):
-                            file.write(f'{current_start+start_offset}-{current_end+start_offset}\n')
+                            file.write(f'{current_start+offset}-{current_end+offset}\n')
                             file.write(' '.join(chunk))
                             file.write('\n')
                             current_start = current_end
@@ -75,7 +83,7 @@ class AudioTranscription():
 
                     # for last chunk
                     if len(chunk) > 0:
-                        file.write(f'{current_end+start_offset}-EOF\n')
+                        file.write(f'{current_start+offset}-{current_end+offset}\n')
                         file.write(' '.join(chunk))
                         file.write('\n')
 
@@ -95,7 +103,7 @@ class AudioTranscription():
             end_time = min((i + segment_duration) * 1000, len(audio))
 
             segment = audio[start_time:end_time]
-            segment_name = f"{Path(src_path).name}_segment_{i//segment_duration + 1}.mp3"
+            segment_name = f"{Path(src_path).stem}_segment_{i//segment_duration + 1}.mp3"
             segment.export(os.path.join(tmp_dir, segment_name), format="mp3")
 
 
