@@ -12,15 +12,20 @@ class FileVectorMigrator:
         self.milvus = milvus
         # Defining collections and corresponding MinIO buckets directly in the code
         self.collections = {
-            "pdfs": "document",
-            "audio": "audio",
-            "images": "image",
-            "video": "video"
+            "pdfs",
+            "audio",
+            "images",
+            "video"
         }
 
     def migrate(self):
         # List to hold data to be inserted into Milvus
         data_to_insert = []
+
+        for collection in self.collections:
+
+
+
 
         # Loop through the collections (buckets and corresponding Milvus collections)
         for bucket_name, milvus_collection in self.collections.items():
