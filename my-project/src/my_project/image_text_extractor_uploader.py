@@ -30,3 +30,25 @@ class ImageTextExtractorUploader:
         start_time = time.time()
         self.upload_image_metadata(image_path)
         print(f"Time taken: {time.time() - start_time:.6f} seconds")
+
+# how to use :
+#     image_uploader = ImageTextExtractorUploader()
+#     image_path = "POC_Examples/clean_text_image_heb.png"  
+
+#     Upload Image metadata:
+#       image_uploader.run(image_path)
+
+#     Retrieve Image metadata from MinIO:
+#       image_name = image_path.split('/')[-1].split('.')[0]  # Extract the file name without extension
+#       retrieved_image_metadata = minio_client.get_metadata_from_minio("images", image_name, "png")
+
+#     Print the retrieved Image metadata
+#       print(f"Retrieved Image metadata: {retrieved_image_metadata}")
+
+
+# the json file look like 
+#    {
+#        "file_name": "clean_text_image_heb",
+#          "type": "png",
+#            "content": ".............הכלב והנמר\nאיש עשיתחש שלו"
+#    }

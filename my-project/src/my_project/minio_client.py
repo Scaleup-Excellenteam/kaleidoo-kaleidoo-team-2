@@ -57,3 +57,37 @@ class MinIOClient:
         except S3Error as e:
             print(f"Error retrieving metadata: {e}")
             return None
+        
+    # buckets name : images, audio, pdfs, video    
+    def list_files_in_bucket(self, bucket_name):
+        """
+        Lists all files (objects) in a given MinIO bucket and returns them as a dictionary.
+
+        Args:
+            bucket_name (str): The name of the bucket from which to list files.
+        
+        Returns:
+            dict: A dictionary where keys are object names and values are metadata (if any), or None.
+        """
+        try:
+            # Check if the bucket exists
+            if not self.client.bucket_exists(bucket_name):
+                return f"Bucket '{bucket_name}' does not exist."
+
+            # List all objects in the bucket
+            objects = self.client.list_objects(bucket_name)
+            file_list = []
+
+            for obj in objects:
+                file_list.append({
+                    "file_name": obj.object_name,
+                    "size": obj.size,
+                    "last_modified": obj.last_modified.isoformat() if obj.last_modified else None,
+                    "etag": obj.etag,
+                })
+
+            return file_list
+
+        except S3Error as e:
+            print(f"Error listing objects in bucket '{bucket_name}': {e}")
+            return None
