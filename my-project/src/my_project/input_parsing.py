@@ -12,6 +12,8 @@ class InputParsing:
 
         :param input_directory: The local directory where input files are stored
         :param minio_interface: An instance of the MinIOInterface for uploading parsed data
+
+        *** Make sure you load Google Cloud API JSON key into the os env usind the script: Parser/cloud/load_google_credentials.sh***
         """
         self.input_directory = input_directory
         self.minio_interface = minio_interface
@@ -26,7 +28,7 @@ class InputParsing:
         :return the path of the processed file
 
         :param file_path: Path to the file to be parsed
-        
+
         """
         tmp_dir = 'Parser/cloud/audio_files'
         dst_dir = 'Parser/transcripts'
