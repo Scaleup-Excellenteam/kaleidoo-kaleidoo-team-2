@@ -1,2 +1,11 @@
 .idea
 .env
+myenv/
+GoogleVertexDB.py
+check.py
+embeddings.npy
+embeding.py
+kaleidoo-435715-96fdd3ef71f6.json
+my-project/src/my_project/embedding.py
+my-project/src/my_project/vector_db.py
+speech_test/
