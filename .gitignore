@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .idea
 .env
 myenv/
@@ -9,3 +10,7 @@ kaleidoo-435715-96fdd3ef71f6.json
 my-project/src/my_project/embedding.py
 my-project/src/my_project/vector_db.py
 speech_test/
+=======
+to_merge
+Parser/cloud/__pycache__
+>>>>>>> boris_dev

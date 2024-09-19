@@ -1,7 +1,11 @@
 import os
 import mimetypes
+from pathlib import Path
+from Parser.cloud.audio import AudioParser
+from Parser.cloud.video import VideoParser
 
 class InputParsing:
+
     def __init__(self, input_directory: str, minio_interface):
         """
         Initialize with the directory where input files are stored and MinIO interface.
@@ -12,15 +16,31 @@ class InputParsing:
         self.input_directory = input_directory
         self.minio_interface = minio_interface
         self.processed_files = set()  # Set to keep track of already processed files
+        self.audioParser = AudioParser()
+        self.videoParser = VideoParser()
 
     def parsing_audio_video(self, file_path) -> str:
+
         """
         Read and parse the audio or video file.
         :return the path of the processed file
 
         :param file_path: Path to the file to be parsed
+        
         """
-        pass  # TODO: Boris must implement this method
+        tmp_dir = 'Parser/cloud/audio_files'
+        dst_dir = 'Parser/transcripts'
+        mp3_dir = 'Parser/mp4_to_mp3_files'
+
+        file_type = Path(file_path).suffix
+
+        if (file_type == '.mp3'):
+            self.audioParser.transcript_audio(file_path, tmp_dir, dst_dir)
+
+
+        elif (file_type == '.mp4'):
+            self.videoParser.transcript_video_objects(file_path, dst_dir)
+            self.videoParser.transcript_video_speech(file_path, mp3_dir, tmp_dir, dst_dir) 
 
     def parsing_img_pdf(self, file_path) -> dict:
         """
