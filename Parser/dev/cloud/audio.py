@@ -6,9 +6,9 @@ from pathlib import Path
 import shutil
 
 
-class AudioTranscription():
+class AudioParser():
 
-    def transcript_audio(self, filepath, tmp_dir, dst_dir):        
+    def transcript_audio(self, filepath, tmp_dir, dst_dir):
         self._split_audio(filepath, tmp_dir)
         self._transcript_all(tmp_dir, dst_dir)
         self._clear_directory(tmp_dir)
@@ -22,18 +22,18 @@ class AudioTranscription():
             for file in files:
                 if file.endswith(format):
                     os.path.join(root, file)
-                    self.transcript_audio(os.path.join(root, file), dst_dir, next_file_start_offset)
+                    self._transcript_audio_file(os.path.join(root, file), dst_dir, next_file_start_offset)
                     next_file_start_offset += len(AudioSegment.from_mp3(os.path.join(root, file))) // 1000 
         
 
 
 
-    def _transcript_audio(self, filepath, dst_dir, start_offset = 0):
+    def _transcript_audio_file(self, filepath, dst_dir, start_offset = 0):
 
         if not os.path.exists(dst_dir):
             os.makedirs(dst_dir)
 
-        dst_path = f"{dst_dir}/{Path(filepath).name}_audio_transcript.txt"
+        dst_path = f"{dst_dir}/{Path(filepath).name}_audio_speech_transcript.txt"
         chunk_duration = 10
 
         client = speech.SpeechClient()
@@ -95,7 +95,7 @@ class AudioTranscription():
             end_time = min((i + segment_duration) * 1000, len(audio))
 
             segment = audio[start_time:end_time]
-            segment_name = f"{Path(src_path).name}_segment_{i//segment_duration + 1}.mp3"
+            segment_name = f"{Path(src_path).stem}_segment_{i//segment_duration + 1}.mp3"
             segment.export(os.path.join(tmp_dir, segment_name), format="mp3")
 
 
@@ -114,3 +114,5 @@ class AudioTranscription():
                 shutil.rmtree(item_path)
             else:
                 os.remove(item_path)
+
+

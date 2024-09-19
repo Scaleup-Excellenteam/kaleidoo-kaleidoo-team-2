@@ -1,17 +1,33 @@
 from google.cloud import videointelligence_v1 as videointelligence
 from google.cloud import translate_v2 as translate
-import os
-import time
 from pathlib import Path
 from collections import defaultdict
+from moviepy.editor import VideoFileClip
+from audio import AudioParser
 
 
 class VideoParser():
 
+    def __init__(self):
+        self.audioParser = AudioParser()
+
+
+
+
+    def transcript_video_speech(self, video_path, audio_dir, audio_tmp_dir  ,dst_dir, format = 'mp3'):
+
+        audio_path = f"{audio_dir}/{Path(src_path).stem}.mp3"
+
+        self._mp4_to_mp3(video_path, audio_path)
+        self.audioParser.transcript_audio(audio_path, audio_tmp_dir, dst_dir)
+
+
+
+
     def transcript_video_text(self, src_path, dst_dir):
         client = videointelligence.VideoIntelligenceServiceClient()
 
-        dst_path = f"{dst_dir}/{Path(src_path).name}_text_transcript.txt"
+        dst_path = f"{dst_dir}/{Path(src_path).name}_video_text_transcript.txt"
 
 
         with open(src_path, "rb") as video_file:
@@ -47,7 +63,7 @@ class VideoParser():
     def transcript_video_objects(self, src_path, dst_dir):
         client = videointelligence.VideoIntelligenceServiceClient()
 
-        dst_path = f"{dst_dir}/{Path(src_path).name}_objects_transcript.txt"
+        dst_path = f"{dst_dir}/{Path(src_path).name}_video_objects_transcript.txt"
 
         with open(src_path, "rb") as video_file:
             input_content = video_file.read()
@@ -108,12 +124,21 @@ class VideoParser():
 
 
 
+    def _mp4_to_mp3(self, mp4_path, mp3_path):
+        video = VideoFileClip(mp4_path)
+        audio = video.audio
+        audio.write_audiofile(mp3_path, codec='mp3')
+        audio.close()
+        video.close()
+
+
 if __name__ == "__main__":
     videoParser = VideoParser()
-    src_path = 'Research/TestingSamples/cats.mp4'
+    src_path = '/home/borisg/Python/Kaleidoo/Research/TestingSamples/video_sample_2.mp4'
+    audio_dir = '/home/borisg/Python/Kaleidoo/Research/TestingSamples'
+    audio_tmp_dir = '/home/borisg/Python/Kaleidoo/Parser/dev/cloud/audio_files'
     dst_dir = 'Parser/transcripts'
-    videoParser.transcript_video_text(src_path, dst_dir)
-    # videoParser._group_by_name('/home/borisg/Python/Kaleidoo/Parser/transcripts/cats.mp4_transcript.txt')
+    videoParser.transcript_video_speech(src_path, audio_dir, audio_tmp_dir, dst_dir)
 
 
 
