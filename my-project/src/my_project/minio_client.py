@@ -61,13 +61,13 @@ class MinIOClient:
     # buckets name : images, audio, pdfs, video    
     def list_files_in_bucket(self, bucket_name):
         """
-        Lists all files (objects) in a given MinIO bucket and returns them as a dictionary.
-
+        Lists all files (objects) in a given MinIO bucket and returns their contents as a dictionary.
+        
         Args:
             bucket_name (str): The name of the bucket from which to list files.
         
         Returns:
-            dict: A dictionary where keys are object names and values are metadata (if any), or None.
+            dict: A dictionary where the keys are object names and the values are their contents.
         """
         try:
             # Check if the bucket exists
@@ -76,17 +76,26 @@ class MinIOClient:
 
             # List all objects in the bucket
             objects = self.client.list_objects(bucket_name)
-            file_list = []
+            file_contents = {}
 
+            # Iterate through each object and retrieve its content
             for obj in objects:
-                file_list.append({
-                    "file_name": obj.object_name,
-                    "size": obj.size,
-                    "last_modified": obj.last_modified.isoformat() if obj.last_modified else None,
-                    "etag": obj.etag,
-                })
+                try:
+                    # Get the object content
+                    response = self.client.get_object(bucket_name, obj.object_name)
+                    content = response.read().decode('utf-8')
+                    
+                    # Parse JSON content and ensure proper handling of Hebrew text
+                    try:
+                        file_contents[obj.object_name] = json.loads(content)
+                    except json.JSONDecodeError:
+                        file_contents[obj.object_name] = content  # In case the file is not valid JSON, return raw content
 
-            return file_list
+                except S3Error as e:
+                    print(f"Error retrieving object '{obj.object_name}': {e}")
+                    file_contents[obj.object_name] = None
+
+            return file_contents
 
         except S3Error as e:
             print(f"Error listing objects in bucket '{bucket_name}': {e}")
