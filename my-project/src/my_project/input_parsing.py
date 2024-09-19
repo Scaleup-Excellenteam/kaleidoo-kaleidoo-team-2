@@ -37,12 +37,12 @@ class InputParsing:
         file_type = Path(file_path).suffix
 
         if (file_type == '.mp3'):
-            self.audioParser.transcript_audio(file_path, tmp_dir, dst_dir)
+            return self.audioParser.transcript_audio(file_path, tmp_dir, dst_dir)
 
 
         elif (file_type == '.mp4'):
-            self.videoParser.transcript_video_objects(file_path, dst_dir)
-            self.videoParser.transcript_video_speech(file_path, mp3_dir, tmp_dir, dst_dir) 
+            return self.videoParser.transcript_video_objects(file_path, dst_dir)
+            return self.videoParser.transcript_video_speech(file_path, mp3_dir, tmp_dir, dst_dir) 
 
     def parsing_img_pdf(self, file_path) -> dict:
         """
