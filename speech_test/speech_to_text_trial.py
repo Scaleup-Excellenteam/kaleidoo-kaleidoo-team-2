@@ -4,14 +4,15 @@ import io
 import time
 from pathlib import Path
 
-# Load JSON key into env var
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'kaleidoo-435715-96fdd3ef71f6.json'
 
-src_path = "audio_sample_1.mp3"
+# Load JSON key into env var
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'kaleidoo-435715-96fdd3ef71f6.json' 
+
+src_path = "audio_sample_1.mp3" 
 dst_path = f"{Path(src_path).name}_transcript.txt"
 
-
 def transcribe_audio(audio_path):
+
     start_time = time.time()
     print("Processing...")
 
@@ -22,15 +23,15 @@ def transcribe_audio(audio_path):
     audio = speech.RecognitionAudio(content=content)
 
     config = speech.RecognitionConfig(
-        encoding=speech.RecognitionConfig.AudioEncoding.MP3,
-        sample_rate_hertz=44100,
-        language_code='he-IL',
+        encoding=speech.RecognitionConfig.AudioEncoding.MP3,  
+        sample_rate_hertz=44100,  
+        language_code='he-IL', 
         enable_word_time_offsets=True,
         max_alternatives=1
     )
 
     response = client.recognize(config=config, audio=audio)
-
+    
     current_start = 0
     duration = 10
     current_end = duration
