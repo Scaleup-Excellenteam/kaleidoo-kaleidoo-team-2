@@ -114,7 +114,7 @@ if __name__ == "__main__":
         with open(file_path, 'r', encoding='utf-8') as file:
             return [line.strip() for line in file if line.strip()]
 
-    moby_dick_path = 'mobydick.txt'
+    moby_dick_path = '../../../mobydick.txt'
     moby_dick_lines = load_moby_dick(moby_dick_path)
     milvus = MilvusDB()
     milvus.remove_all_collections()
