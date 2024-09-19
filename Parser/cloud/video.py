@@ -19,7 +19,7 @@ class VideoParser():
         audio_path = f"{audio_dir}/{Path(src_path).stem}.mp3"
 
         self._mp4_to_mp3(video_path, audio_path)
-        self.audioParser.transcript_audio(audio_path, audio_tmp_dir, dst_dir)
+        return self.audioParser.transcript_audio(audio_path, audio_tmp_dir, dst_dir)
 
 
 
@@ -57,7 +57,7 @@ class VideoParser():
             for annotation in text_annotations:
                 file.write(f"{annotation['start_time']}-{annotation['end_time']}\n{self._translate_text(annotation['text'])}\n")
 
-
+        return dst_path
 
 
     def transcript_video_objects(self, src_path, dst_dir):
@@ -93,6 +93,9 @@ class VideoParser():
                 file.write(f"{annotation['start_time']} {annotation['end_time']} {self._translate_text(annotation['entity'])}\n")
 
         self._group_by_name(dst_path)
+
+        return dst_path
+
 
 
 
